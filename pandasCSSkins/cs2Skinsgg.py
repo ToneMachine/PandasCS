@@ -1,9 +1,12 @@
 from bs4 import BeautifulSoup
 import requests
+import csv
 
 URL = "https://cs2skins.gg/items"
 
-with open("listing-CS2Skinsgg.txt", "w", encoding="utf-8") as f:
+with open("listing-CS2Skinsgg.csv", "w", newline = "", encoding="utf-8") as f:
+    writer = csv.writer(f)
+    writer.writerow(["Name", "Price",])
 
     # loops pages
     for page in range(1, 76):
@@ -41,4 +44,4 @@ with open("listing-CS2Skinsgg.txt", "w", encoding="utf-8") as f:
             #item_name = name_tag.text.strip()
             #item_price = price_tag.text.strip()
 
-            f.write(f"{name_tag} {price_tag}\n")# writes to file
+            writer.writerow([name_tag, price_tag])# writes to file
