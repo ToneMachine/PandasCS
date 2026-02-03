@@ -3,10 +3,11 @@ import requests
 import csv
 
 URL = "https://cs2skins.gg/items"
+item_id = 0
 
-with open("listing-CS2Skinsgg.csv", "w", newline = "", encoding="utf-8") as f:
+with open("pandasCSSkins/listing.csv", "w", newline = "", encoding="utf-8") as f:
     writer = csv.writer(f)
-    writer.writerow(["Name", "Price",])
+    writer.writerow(["ID", "Name"])
 
     # loops pages
     for page in range(1, 76):
@@ -44,4 +45,5 @@ with open("listing-CS2Skinsgg.csv", "w", newline = "", encoding="utf-8") as f:
             #item_name = name_tag.text.strip()
             #item_price = price_tag.text.strip()
 
-            writer.writerow([name_tag, price_tag])# writes to file
+            writer.writerow([item_id, name_tag])# writes to file
+            item_id += 1
