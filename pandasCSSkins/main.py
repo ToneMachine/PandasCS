@@ -43,14 +43,14 @@ def check_weapon(weapon, weapon_name, types_list):
         team = property_list[9].text.strip("Name errorist")
         collection = item.find("div", class_="collection-info").text
 
-        # writes to csv file
-        writer.writerow([rarity, is_stattrak, is_souvenir, team, collection])
+        # writes to skin table csv file
+        writer.writerow([item_type, weapon, weapon_name, rarity, is_stattrak, is_souvenir, team, collection])
     
     # continues with rest of the list
     else:
         check_weapon(weapon, weapon_name, types_list[1:])
 
-# writes to skin table csv file
+# opens skin table csv file
 with open("pandasCSSkins/skin_table.csv", "w", newline="", encoding="utf-8") as f:
     writer = csv.writer(f)
     writer.writerow([

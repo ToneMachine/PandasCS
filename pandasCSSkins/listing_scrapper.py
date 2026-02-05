@@ -39,11 +39,5 @@ with open("pandasCSSkins/listing.csv", "w", newline = "", encoding="utf-8") as f
             except AttributeError:
                 price_tag = None
 
-            # if not name_tag or not price_tag:
-            #     continue
-
-            #item_name = name_tag.text.strip()
-            #item_price = price_tag.text.strip()
-
-            writer.writerow([item_id, name_tag])# writes to file
+            writer.writerow([item_id, name_tag])# writes to listing file
             item_id += 1

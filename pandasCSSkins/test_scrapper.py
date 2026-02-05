@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import csv
 
-URL = "https://cs2skins.gg/items/skin/heavy/m249/shipping-forecast"
+URL = "https://cs2skins.gg/items/skin/rifles/ak-47/aquamarinerevenge"
 
 with open("pandasCSSkins/test.csv", "w", newline = "", encoding="utf-8") as f:
     writer = csv.writer(f)
