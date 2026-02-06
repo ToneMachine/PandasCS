@@ -1,1 +1,1360 @@
-item type,weapon type,weapon,weapon name,rarity,stattrak,souvenir,team,collection
+category,weapon,pattern,rarity,stat trak,souvenir,team,collection
+Rifles,AK-47,Aquamarine Revenge,Covert,Y,N,T,The Falchion Collection
+Rifles,AK-47,Asiimov,Covert,Y,N,T,The Danger Zone Collection
+Rifles,AK-47,B the Monster,Covert,N,N,T,The Overpass 2024 Collection
+Rifles,AK-47,Baroque Purple,Industrial Grade,N,N,T,The Canals Collection
+Rifles,AK-47,Black Laminate,Mil-Spec Grade,N,Y,T,The Vertigo Collection
+Rifles,AK-47,Bloodsport,Covert,Y,N,T,The Spectrum Collection
+Rifles,AK-47,Blue Laminate,Restricted,Y,N,T,The eSports 2013 Winter Collection
+Rifles,AK-47,Cartel,Classified,Y,N,T,The Chroma Collection
+Rifles,AK-47,Case Hardened,Classified,Y,N,T,The Arms Deal Collection
+Rifles,AK-47,Crossfade,Mil-Spec Grade,N,N,T,The Graphic Design Collection
+Rifles,AK-47,Elite Build,Mil-Spec Grade,Y,N,T,The Chroma 2 Collection
+Rifles,AK-47,Emerald Pinstripe,Restricted,N,N,T,The Bank Collection
+Rifles,AK-47,Fire Serpent,Covert,Y,N,T,The Bravo Collection
+Rifles,AK-47,First Class,Restricted,N,N,T,The Baggage Collection
+Rifles,AK-47,Frontside Misty,Classified,Y,N,T,The Shadow Collection
+Rifles,AK-47,Fuel Injector,Covert,Y,N,T,The Wildfire Collection
+Rifles,AK-47,Gold Arabesque,Covert,N,Y,T,The 2021 Dust 2 Collection
+Rifles,AK-47,Green Laminate,Mil-Spec Grade,N,Y,T,The 2021 Vertigo Collection
+Rifles,AK-47,Head Shot,Covert,Y,N,T,The Revolution Collection
+Rifles,AK-47,Hydroponic,Classified,N,N,T,The Rising Sun Collection
+Rifles,AK-47,Ice Coaled,Classified,Y,N,T,The Recoil Collection
+Rifles,AK-47,Inheritance,Covert,Y,N,T,The Kilowatt Collection
+Rifles,AK-47,Jaguar,Covert,Y,N,T,The eSports 2014 Summer Collection
+Rifles,AK-47,Jet Set,Classified,N,N,T,The Baggage Collection
+Rifles,AK-47,Jungle Spray,Industrial Grade,N,N,T,The Aztec Collection
+Rifles,AK-47,Leet Museo,Covert,Y,N,T,The Operation Riptide Collection
+Rifles,AK-47,Legion of Anubis,Covert,Y,N,T,The Fracture Collection
+Rifles,AK-47,Midnight Laminate,Restricted,N,N,T,The Ascent Collection
+Rifles,AK-47,Neon Revolution,Covert,Y,N,T,The Gamma 2 Collection
+Rifles,AK-47,Neon Rider,Covert,Y,N,T,The Horizon Collection
+Rifles,AK-47,Nightwish,Covert,Y,N,T,The Dreams & Nightmares Collection
+Rifles,AK-47,Nouveau Rouge,Classified,N,N,T,The Radiant Collection
+Rifles,AK-47,Olive Polycam,Industrial Grade,N,N,T,The Sport & Field Collection
+Rifles,AK-47,Orbit Mk01,Restricted,Y,N,T,The Operation Hydra Collection
+Rifles,AK-47,Panthera onca,Classified,N,Y,T,The Ancient Collection
+Rifles,AK-47,Phantom Disruptor,Classified,Y,N,T,The Prisma 2 Collection
+Rifles,AK-47,Point Disarray,Classified,Y,N,T,The Revolver Case Collection
+Rifles,AK-47,Predator,Industrial Grade,N,N,T,The Dust Collection
+Rifles,AK-47,Rat Rod,Restricted,Y,N,T,The Shattered Web Collection
+Rifles,AK-47,Red Laminate,Classified,Y,N,T,The eSports 2013 Collection
+Rifles,AK-47,Redline,Classified,Y,N,T,The Phoenix Collection
+Rifles,AK-47,Safari Mesh,Industrial Grade,N,Y,T,The Dust 2 Collection
+Rifles,AK-47,Safety Net,Restricted,N,Y,T,The 2018 Inferno Collection
+Rifles,AK-47,Searing Rage,Classified,Y,N,T,The Fever Collection
+Rifles,AK-47,Slate,Restricted,Y,N,T,The Snakebite Collection
+Rifles,AK-47,Steel Delta,Mil-Spec Grade,N,Y,T,The Anubis Collection
+Rifles,AK-47,The Empress,Covert,Y,N,T,The Spectrum 2 Collection
+Rifles,AK-47,The Oligarch,Covert,Y,N,T,The Genesis Collection
+Rifles,AK-47,The Outsiders,Classified,Y,N,Imperial Esports,The Gallery Collection
+Rifles,AK-47,Uncharted,Mil-Spec Grade,Y,N,T,The Prisma Collection
+Rifles,AK-47,VariCamo Grey,Industrial Grade,N,N,T,The Boreal Collection
+Rifles,AK-47,Vulcan,Covert,Y,N,T,The Huntsman Collection
+Rifles,AK-47,Wasteland Rebel,Covert,Y,N,T,The Vanguard Collection
+Rifles,AK-47,Wild Lotus,Covert,N,N,T,The St. Marc Collection
+Rifles,AK-47,Wintergreen,Mil-Spec Grade,N,N,T,The Boreal Collection
+Rifles,AK-47,X-Ray,Covert,N,N,T,The Havoc Collection
+Rifles,AUG,Akihabara Accept,Covert,N,N,CT,The Rising Sun Collection
+Rifles,AUG,Amber Fade,Mil-Spec Grade,N,N,CT,The 2021 Train Collection
+Rifles,AUG,Amber Slipstream,Mil-Spec Grade,Y,N,CT,The Horizon Collection
+Rifles,AUG,Anodized Navy,Mil-Spec Grade,N,N,CT,The Alpha Collection
+Rifles,AUG,Arctic Wolf,Restricted,Y,N,CT,The Shattered Web Collection
+Rifles,AUG,Aristocrat,Restricted,Y,N,CT,The Gamma Collection
+Rifles,AUG,Bengal Tiger,Classified,Y,N,CT,The eSports 2014 Summer Collection
+Rifles,AUG,Carved Jade,Mil-Spec Grade,N,Y,CT,The Ancient Collection
+Rifles,AUG,Chameleon,Covert,Y,N,CT,The Phoenix Collection
+Rifles,AUG,Colony,Consumer Grade,N,Y,CT,The Mirage Collection
+Rifles,AUG,Commando Company,Consumer Grade,N,N,CT,The Boreal Collection
+Rifles,AUG,Condemned,Industrial Grade,N,Y,CT,The Safehouse Collection
+Rifles,AUG,Contractor,Consumer Grade,N,Y,CT,The Italy Collection
+Rifles,AUG,Copperhead,Mil-Spec Grade,N,N,CT,The Dust Collection
+Rifles,AUG,Daedalus,Consumer Grade,N,N,CT,The Gods and Monsters Collection
+Rifles,AUG,Death by Puppy,Classified,Y,N,CT,The CS20 Collection
+Rifles,AUG,Eye of Zapems,Restricted,N,N,CT,The Overpass 2024 Collection
+Rifles,AUG,Flame Jörmungandr,Restricted,N,N,CT,The Norse Collection
+Rifles,AUG,Fleet Flock,Classified,Y,N,CT,The Chroma 3 Collection
+Rifles,AUG,Hot Rod,Mil-Spec Grade,N,N,CT,The Assault Collection
+Rifles,AUG,Lil' Pig,Classified,N,N,CT,The Graphic Design Collection
+Rifles,AUG,Luxe Trim,Mil-Spec Grade,Y,N,121,The Gallery Collection
+Rifles,AUG,Midnight Lily,Restricted,N,N,CT,The St. Marc Collection
+Rifles,AUG,Momentum,Classified,Y,N,CT,The Prisma Collection
+Rifles,AUG,Navy Murano,Consumer Grade,N,N,CT,The Canals Collection
+Rifles,AUG,Plague,Mil-Spec Grade,Y,N,CT,The Operation Riptide Collection
+Rifles,AUG,Radiation Hazard,Industrial Grade,N,Y,CT,The Cache Collection
+Rifles,AUG,Random Access,Restricted,N,Y,CT,The 2018 Nuke Collection
+Rifles,AUG,Ricochet,Mil-Spec Grade,Y,N,CT,The Revolver Case Collection
+Rifles,AUG,Sand Storm,Restricted,N,Y,CT,The 2021 Mirage Collection
+Rifles,AUG,Snake Pit,Consumer Grade,N,Y,CT,The Anubis Collection
+Rifles,AUG,Spalted Wood,Industrial Grade,N,Y,CT,The 2021 Dust 2 Collection
+Rifles,AUG,Steel Sentinel,Industrial Grade,N,N,CT,The Train 2025 Collection
+Rifles,AUG,Storm,Consumer Grade,N,Y,CT,The Lake Collection
+Rifles,AUG,Stymphalian,Classified,Y,N,CT,The Clutch Collection
+Rifles,AUG,Surveillance,Consumer Grade,N,N,CT,The Control Collection
+Rifles,AUG,Sweeper,Consumer Grade,N,Y,CT,The 2018 Inferno Collection
+Rifles,AUG,Syd Mead,Classified,Y,N,CT,The Gamma 2 Collection
+Rifles,AUG,Tom Cat,Mil-Spec Grade,Y,N,CT,The Prisma 2 Collection
+Rifles,AUG,Torque,Restricted,Y,N,CT,The Huntsman Collection
+Rifles,AUG,Trigger Discipline,Mil-Spec Grade,Y,N,CT,The Genesis Collection
+Rifles,AUG,Triqua,Mil-Spec Grade,Y,N,CT,The Spectrum 2 Collection
+Rifles,AUG,Wings,Mil-Spec Grade,Y,N,CT,The Arms Deal Collection
+Rifles,AWP,Acheron,Mil-Spec Grade,N,Y,Both,The 2018 Nuke Collection
+Rifles,AWP,Arsenic Spill,Mil-Spec Grade,N,N,Both,The Radiant Collection
+Rifles,AWP,Asiimov,Covert,Y,N,Both,The Phoenix Collection
+Rifles,AWP,Atheris,Restricted,Y,N,Both,The Prisma Collection
+Rifles,AWP,Black Nile,Mil-Spec Grade,N,Y,Both,The Anubis Collection
+Rifles,AWP,BOOM,Classified,Y,N,Both,The eSports 2013 Collection
+Rifles,AWP,Capillary,Mil-Spec Grade,Y,N,Both,The Prisma 2 Collection
+Rifles,AWP,Chromatic Aberration,Covert,Y,N,Both,The Recoil Collection
+Rifles,AWP,Chrome Cannon,Covert,Y,N,Both,The Kilowatt Collection
+Rifles,AWP,CMYK,Covert,N,N,Both,The Graphic Design Collection
+Rifles,AWP,Containment Breach,Covert,Y,N,Both,The Shattered Web Collection
+Rifles,AWP,Corticera,Classified,Y,N,Both,The eSports 2014 Summer Collection
+Rifles,AWP,Crakow!,Classified,N,N,Both,The Overpass 2024 Collection
+Rifles,AWP,Desert Hydra,Covert,N,Y,Both,The 2021 Mirage Collection
+Rifles,AWP,Dragon Lore,Covert,N,Y,Both,The Cobblestone Collection
+Rifles,AWP,Duality,Classified,Y,N,Both,The Revolution Collection
+Rifles,AWP,Electric Hive,Classified,Y,N,Both,The eSports 2013 Winter Collection
+Rifles,AWP,Elite Build,Classified,Y,N,Both,The Wildfire Collection
+Rifles,AWP,Exoskeleton,Restricted,Y,N,Both,The Operation Broken Fang Collection
+Rifles,AWP,Fade,Covert,N,N,Both,The Control Collection
+Rifles,AWP,Fever Dream,Classified,Y,N,Both,The Spectrum Collection
+Rifles,AWP,Graphite,Classified,Y,N,Both,The Bravo Collection
+Rifles,AWP,Green Energy,Classified,N,N,Both,The Boreal Collection
+Rifles,AWP,Gungnir,Covert,N,N,Both,The Norse Collection
+Rifles,AWP,Hyper Beast,Covert,Y,N,Both,The Falchion Collection
+Rifles,AWP,Ice Coaled,Classified,Y,N,Both,The Genesis Collection
+Rifles,AWP,Lightning Strike,Covert,Y,N,Both,The Arms Deal Collection
+Rifles,AWP,LongDog,Covert,N,N,Both,The Train 2025 Collection
+Rifles,AWP,Man-o'-war,Covert,Y,N,Both,The Chroma Collection
+Rifles,AWP,Medusa,Covert,N,N,Both,The Gods and Monsters Collection
+Rifles,AWP,Mortis,Classified,Y,N,Both,The Clutch Collection
+Rifles,AWP,Neo-Noir,Covert,Y,N,Both,The Danger Zone Collection
+Rifles,AWP,Oni Taiji,Covert,Y,N,Both,The Operation Hydra Collection
+Rifles,AWP,PAW,Restricted,Y,N,Both,The Horizon Collection
+Rifles,AWP,Phobos,Restricted,Y,N,Both,The Gamma Collection
+Rifles,AWP,Pink DDPAT,Restricted,N,Y,Both,The Overpass Collection
+Rifles,AWP,Pit Viper,Restricted,N,Y,Both,The Italy Collection
+Rifles,AWP,POP AWP,Restricted,N,N,Both,The 2021 Train Collection
+Rifles,AWP,Printstream,Covert,Y,N,Both,The Fever Collection
+Rifles,AWP,Redline,Classified,Y,N,Both,The Winter Offensive Collection
+Rifles,AWP,Safari Mesh,Industrial Grade,N,Y,Both,The Lake Collection
+Rifles,AWP,Silk Tiger,Classified,N,N,Both,The Havoc Collection
+Rifles,AWP,Snake Camo,Mil-Spec Grade,N,N,Both,The Dust Collection
+Rifles,AWP,Sun in Leo,Industrial Grade,N,N,Both,The Gods and Monsters Collection
+Rifles,AWP,The Prince,Covert,N,N,Both,The Canals Collection
+Rifles,AWP,Wildfire,Covert,Y,N,Both,The CS20 Collection
+Rifles,AWP,Worm God,Restricted,Y,N,Both,The Chroma 2 Collection
+Pistols,CZ75-Auto,Army Sheen,Consumer Grade,N,N,Both,The Chop Shop Collection
+Pistols,CZ75-Auto,Chalice,Restricted,N,Y,Both,The Cobblestone Collection
+Pistols,CZ75-Auto,Circaetus,Mil-Spec Grade,Y,N,Both,The Snakebite Collection
+Pistols,CZ75-Auto,Copper Fiber,Industrial Grade,N,N,Gambit Esports,The Train 2025 Collection
+Pistols,CZ75-Auto,Crimson Web,Mil-Spec Grade,Y,N,Both,The Arms Deal 3 Collection
+Pistols,CZ75-Auto,Distressed,Mil-Spec Grade,Y,N,Both,The Prisma 2 Collection
+Pistols,CZ75-Auto,Eco,Restricted,Y,N,Both,The Horizon Collection
+Pistols,CZ75-Auto,Emerald,Mil-Spec Grade,N,N,Both,The Chop Shop Collection
+Pistols,CZ75-Auto,Emerald Quartz,Mil-Spec Grade,N,N,Both,The Norse Collection
+Pistols,CZ75-Auto,Framework,Consumer Grade,N,Y,Both,The 2021 Vertigo Collection
+Pistols,CZ75-Auto,Green Plaid,Consumer Grade,N,N,Both,The Baggage Collection
+Pistols,CZ75-Auto,Hexane,Mil-Spec Grade,Y,N,Both,The eSports 2014 Summer Collection
+Pistols,CZ75-Auto,Imprint,Mil-Spec Grade,Y,N,Both,The Gamma 2 Collection
+Pistols,CZ75-Auto,Indigo,Consumer Grade,N,N,Both,The Canals Collection
+Pistols,CZ75-Auto,Jungle Dashed,Consumer Grade,N,N,Both,The Control Collection
+Pistols,CZ75-Auto,Midnight Palm,Industrial Grade,N,Y,Both,The 2021 Mirage Collection
+Pistols,CZ75-Auto,Nitro,Mil-Spec Grade,N,Y,Both,The Overpass Collection
+Pistols,CZ75-Auto,Pink Pearl,Consumer Grade,N,N,Gambit Esports,The Radiant Collection
+Pistols,CZ75-Auto,Poison Dart,Mil-Spec Grade,Y,N,Both,The Huntsman Collection
+Pistols,CZ75-Auto,Pole Position,Restricted,Y,N,Both,The Chroma 2 Collection
+Pistols,CZ75-Auto,Polymer,Mil-Spec Grade,Y,N,Both,The Glove Collection
+Pistols,CZ75-Auto,Red Astor,Restricted,Y,N,Both,The Chroma 3 Collection
+Pistols,CZ75-Auto,Silver,Industrial Grade,N,Y,Both,The Ancient Collection
+Pistols,CZ75-Auto,Slalom,Restricted,N,N,Gambit Esports,The Graphic Design Collection
+Pistols,CZ75-Auto,Syndicate,Restricted,N,N,Both,The 2021 Train Collection
+Pistols,CZ75-Auto,Tacticat,Restricted,Y,N,Both,The Spectrum 2 Collection
+Pistols,CZ75-Auto,The Fuschia Is Now,Classified,Y,N,Both,The Arms Deal 3 Collection
+Pistols,CZ75-Auto,Tigris,Restricted,Y,N,Both,The Breakout Collection
+Pistols,CZ75-Auto,Tread Plate,Restricted,Y,N,Both,The Arms Deal 3 Collection
+Pistols,CZ75-Auto,Tuxedo,Mil-Spec Grade,N,N,Both,The Bank Collection
+Pistols,CZ75-Auto,Twist,Mil-Spec Grade,Y,N,Both,The Huntsman Collection
+Pistols,CZ75-Auto,Vendetta,Mil-Spec Grade,Y,N,Both,The Operation Broken Fang Collection
+Pistols,CZ75-Auto,Victoria,Covert,Y,N,Both,The Arms Deal 3 Collection
+Pistols,CZ75-Auto,Xiangliu,Classified,Y,N,Both,The Spectrum Collection
+Pistols,CZ75-Auto,Yellow Jacket,Classified,Y,N,Both,The Falchion Collection
+Pistols,Desert Eagle,Blaze,Restricted,N,N,Both,The Dust Collection
+Pistols,Desert Eagle,Blue Ply,Mil-Spec Grade,Y,N,Both,The Prisma 2 Collection
+Pistols,Desert Eagle,Bronze Deco,Mil-Spec Grade,Y,N,Both,The Chroma 2 Collection
+Pistols,Desert Eagle,Calligraffiti,Mil-Spec Grade,Y,N,Bad News Eagles,The Gallery Collection
+Pistols,Desert Eagle,Cobalt Disruption,Classified,Y,N,Both,The eSports 2013 Winter Collection
+Pistols,Desert Eagle,Code Red,Covert,Y,N,Both,The Horizon Collection
+Pistols,Desert Eagle,Conspiracy,Classified,Y,N,Both,The Breakout Collection
+Pistols,Desert Eagle,Corinthian,Mil-Spec Grade,Y,N,Both,The Revolver Case Collection
+Pistols,Desert Eagle,Crimson Web,Restricted,Y,N,Both,The eSports 2014 Summer Collection
+Pistols,Desert Eagle,Directive,Restricted,Y,N,Both,The Gamma 2 Collection
+Pistols,Desert Eagle,Emerald Jörmungandr,Restricted,N,N,Both,The Norse Collection
+Pistols,Desert Eagle,Fennec Fox,Classified,N,Y,Both,The 2021 Mirage Collection
+Pistols,Desert Eagle,Golden Koi,Covert,Y,N,Both,The Bravo Collection
+Pistols,Desert Eagle,Hand Cannon,Restricted,N,Y,Both,The Cobblestone Collection
+Pistols,Desert Eagle,Heat Treated,Classified,N,N,Both,Limited Edition Item
+Pistols,Desert Eagle,Heirloom,Restricted,Y,N,Both,The Arms Deal 3 Collection
+Pistols,Desert Eagle,Hypnotic,Classified,Y,N,Both,The Arms Deal Collection
+Pistols,Desert Eagle,Kumicho Dragon,Classified,Y,N,Both,The Wildfire Collection
+Pistols,Desert Eagle,Light Rail,Restricted,Y,N,Both,The Prisma Collection
+Pistols,Desert Eagle,Mecha Industries,Classified,Y,N,Both,The Danger Zone Collection
+Pistols,Desert Eagle,Meteorite,Mil-Spec Grade,N,N,Both,The Bank Collection
+Pistols,Desert Eagle,Midnight Storm,Industrial Grade,N,N,Both,The Rising Sun Collection
+Pistols,Desert Eagle,Mint Fan,Mil-Spec Grade,N,N,Both,The Ascent Collection
+Pistols,Desert Eagle,Mudder,Industrial Grade,N,Y,Both,The Lake Collection
+Pistols,Desert Eagle,Mulberry,Restricted,N,N,Both,The Radiant Collection
+Pistols,Desert Eagle,Naga,Restricted,Y,N,Both,The Chroma Collection
+Pistols,Desert Eagle,Night,Industrial Grade,N,N,Both,The Chop Shop Collection
+Pistols,Desert Eagle,Night Heist,Mil-Spec Grade,N,N,Both,The Havoc Collection
+Pistols,Desert Eagle,Ocean Drive,Covert,Y,N,Both,The Operation Riptide Collection
+Pistols,Desert Eagle,Oxide Blaze,Mil-Spec Grade,Y,N,Both,The Spectrum Collection
+Pistols,Desert Eagle,Pilot,Restricted,N,N,Both,The Baggage Collection
+Pistols,Desert Eagle,Printstream,Covert,Y,N,Both,The Fracture Collection
+Pistols,Desert Eagle,Serpent Strike,Restricted,Y,N,Both,The Fever Collection
+Pistols,Desert Eagle,Sputnik,Mil-Spec Grade,N,N,Both,The 2021 Train Collection
+Pistols,Desert Eagle,Starcade,Classified,N,N,Both,The Graphic Design Collection
+Pistols,Desert Eagle,Sunset Storm 壱,Restricted,N,N,Both,The Rising Sun Collection
+Pistols,Desert Eagle,Sunset Storm 弐,Restricted,N,N,Both,The Rising Sun Collection
+Pistols,Desert Eagle,The Bronze,Industrial Grade,N,N,Both,The Control Collection
+Pistols,Desert Eagle,Tilted,Industrial Grade,N,N,Both,The Overpass 2024 Collection
+Pistols,Desert Eagle,Trigger Discipline,Restricted,Y,N,Both,The Snakebite Collection
+Pistols,Desert Eagle,Urban DDPAT,Industrial Grade,N,Y,Both,The Overpass Collection
+Pistols,Desert Eagle,Urban Rubble,Mil-Spec Grade,N,Y,Both,The Train Collection
+Pistols,Dual Berettas,Angel Eyes,Restricted,Y,N,Both,The Genesis Collection
+Pistols,Dual Berettas,Anodized Navy,Mil-Spec Grade,N,Y,Both,The Inferno Collection
+Pistols,Dual Berettas,Balance,Mil-Spec Grade,Y,N,Both,The Shattered Web Collection
+Pistols,Dual Berettas,Black Limba,Mil-Spec Grade,Y,N,Both,The Bravo Collection
+Pistols,Dual Berettas,BorDeux,Consumer Grade,N,N,Both,The Radiant Collection
+Pistols,Dual Berettas,Briar,Consumer Grade,N,Y,Both,The Cobblestone Collection
+Pistols,Dual Berettas,Cartel,Mil-Spec Grade,Y,N,Both,The Wildfire Collection
+Pistols,Dual Berettas,Cobalt Quartz,Restricted,N,Y,Both,The Lake Collection
+Pistols,Dual Berettas,Cobra Strike,Classified,Y,N,Both,The Operation Hydra Collection
+Pistols,Dual Berettas,Colony,Consumer Grade,N,Y,Both,The Train Collection
+Pistols,Dual Berettas,Contractor,Consumer Grade,N,Y,Both,The Safehouse Collection
+Pistols,Dual Berettas,Demolition,Restricted,N,Y,Both,The Vertigo Collection
+Pistols,Dual Berettas,Dezastre,Restricted,Y,N,Both,The Operation Broken Fang Collection
+Pistols,Dual Berettas,Drift Wood,Industrial Grade,N,Y,Both,The 2021 Mirage Collection
+Pistols,Dual Berettas,Dualing Dragons,Mil-Spec Grade,Y,N,Both,The Shadow Collection
+Pistols,Dual Berettas,Duelist,Restricted,N,N,Both,The Chop Shop Collection
+Pistols,Dual Berettas,Elite 1.6,Mil-Spec Grade,Y,N,Both,The CS20 Collection
+Pistols,Dual Berettas,Emerald,Mil-Spec Grade,N,N,Both,The Canals Collection
+Pistols,Dual Berettas,Flora Carnivora,Restricted,Y,N,Both,The Recoil Collection
+Pistols,Dual Berettas,Heist,Consumer Grade,N,N,Both,The Havoc Collection
+Pistols,Dual Berettas,Hemoglobin,Restricted,Y,N,Both,The Arms Deal 2 Collection
+Pistols,Dual Berettas,Hideout,Mil-Spec Grade,Y,N,Both,The Kilowatt Collection
+Pistols,Dual Berettas,Hydro Strike,Restricted,Y,N,9z Team,The Gallery Collection
+Pistols,Dual Berettas,Marina,Restricted,Y,N,Both,The Winter Offensive Collection
+Pistols,Dual Berettas,Melondrama,Classified,Y,N,Both,The Dreams & Nightmares Collection
+Pistols,Dual Berettas,Moon in Libra,Consumer Grade,N,N,Both,The Gods and Monsters Collection
+Pistols,Dual Berettas,Oil Change,Consumer Grade,N,Y,Both,The 2021 Vertigo Collection
+Pistols,Dual Berettas,Panther,Mil-Spec Grade,Y,N,Both,The Arms Deal 3 Collection
+Pistols,Dual Berettas,Polished Malachite,Industrial Grade,N,N,Both,The Boreal Collection
+Pistols,Dual Berettas,Pyre,Industrial Grade,N,N,Both,The Norse Collection
+Pistols,Dual Berettas,Retribution,Mil-Spec Grade,Y,N,Both,The Huntsman Collection
+Pistols,Dual Berettas,Rose Nacre,Industrial Grade,N,N,Both,The Ascent Collection
+Pistols,Dual Berettas,Royal Consorts,Restricted,Y,N,Both,The Glove Collection
+Pistols,Dual Berettas,Shred,Mil-Spec Grade,Y,N,Both,The Horizon Collection
+Pistols,Dual Berettas,Stained,Industrial Grade,N,Y,Both,The Italy Collection
+Pistols,Dual Berettas,Sweet Little Angels,Restricted,N,N,Both,The Overpass 2024 Collection
+Pistols,Dual Berettas,Switch Board,Industrial Grade,N,N,Both,The Control Collection
+Pistols,Dual Berettas,Tread,Mil-Spec Grade,Y,N,Both,The Operation Riptide Collection
+Pistols,Dual Berettas,Twin Turbo,Classified,N,Y,Both,The 2018 Inferno Collection
+Pistols,Dual Berettas,Urban Shock,Restricted,Y,N,Both,The Chroma Collection
+Pistols,Dual Berettas,Ventilators,Mil-Spec Grade,Y,N,Both,The Chroma 3 Collection
+Rifles,FAMAS,2A2F,Mil-Spec Grade,N,N,CT,The Train 2025 Collection
+Rifles,FAMAS,Afterimage,Classified,Y,N,CT,The eSports 2013 Winter Collection
+Rifles,FAMAS,Bad Trip,Covert,Y,N,CT,The Fever Collection
+Rifles,FAMAS,CaliCamo,Industrial Grade,N,Y,CT,The 2021 Mirage Collection
+Rifles,FAMAS,Colony,Consumer Grade,N,Y,CT,The Italy Collection
+Rifles,FAMAS,Commemoration,Covert,Y,N,CT,The CS20 Collection
+Rifles,FAMAS,Contrast Spray,Consumer Grade,N,N,CT,The Office Collection
+Rifles,FAMAS,Crypsis,Mil-Spec Grade,Y,N,CT,The Prisma Collection
+Rifles,FAMAS,Cyanospatter,Industrial Grade,N,Y,CT,The Lake Collection
+Rifles,FAMAS,Dark Water,Mil-Spec Grade,N,Y,CT,The Ancient Collection
+Rifles,FAMAS,Decommissioned,Mil-Spec Grade,Y,N,CT,The CS20 Collection
+Rifles,FAMAS,Djinn,Classified,Y,N,CT,The Chroma 2 Collection
+Rifles,FAMAS,Doomkitty,Mil-Spec Grade,Y,N,CT,The eSports 2013 Collection
+Rifles,FAMAS,Eye of Athena,Classified,Y,N,CT,The Horizon Collection
+Rifles,FAMAS,Faulty Wiring,Consumer Grade,N,Y,CT,The 2021 Vertigo Collection
+Rifles,FAMAS,Grey Ghost,Industrial Grade,N,N,CT,The Radiant Collection
+Rifles,FAMAS,Half Sleeve,Industrial Grade,N,N,CT,The Sport & Field Collection
+Rifles,FAMAS,Halftone Wash,Industrial Grade,N,N,CT,The Graphic Design Collection
+Rifles,FAMAS,Hexane,Mil-Spec Grade,Y,N,CT,The Arms Deal 2 Collection
+Rifles,FAMAS,Macabre,Mil-Spec Grade,Y,N,CT,The Operation Hydra Collection
+Rifles,FAMAS,Mecha Industries,Classified,Y,N,CT,The Glove Collection
+Rifles,FAMAS,Meltdown,Classified,N,N,CT,The 2021 Train Collection
+Rifles,FAMAS,Meow 36,Mil-Spec Grade,Y,N,CT,The Recoil Collection
+Rifles,FAMAS,Neural Net,Restricted,Y,N,CT,The Falchion Collection
+Rifles,FAMAS,Night Borre,Consumer Grade,N,N,CT,The Norse Collection
+Rifles,FAMAS,Palm,Consumer Grade,N,N,CT,The Boreal Collection
+Rifles,FAMAS,Prime Conspiracy,Restricted,N,N,CT,The Control Collection
+Rifles,FAMAS,Pulse,Restricted,Y,N,CT,The Winter Offensive Collection
+Rifles,FAMAS,Rapid Eye Movement,Classified,Y,N,CT,The Dreams & Nightmares Collection
+Rifles,FAMAS,Roll Cage,Covert,Y,N,CT,The Gamma 2 Collection
+Rifles,FAMAS,Sergeant,Restricted,Y,N,CT,The Phoenix Collection
+Rifles,FAMAS,Spitfire,Restricted,N,N,CT,The Alpha Collection
+Rifles,FAMAS,Styx,Restricted,N,Y,CT,The Cache Collection
+Rifles,FAMAS,Sundown,Mil-Spec Grade,N,N,CT,The St. Marc Collection
+Rifles,FAMAS,Survivor Z,Mil-Spec Grade,Y,N,CT,The Shadow Collection
+Rifles,FAMAS,Teardown,Mil-Spec Grade,N,Y,CT,The Safehouse Collection
+Rifles,FAMAS,Valence,Restricted,Y,N,CT,The Wildfire Collection
+Rifles,FAMAS,Waters of Nephthys,Classified,N,Y,CT,The Anubis Collection
+Rifles,FAMAS,Yeti Camo,Mil-Spec Grade,N,N,CT,The Ascent Collection
+Rifles,FAMAS,ZX Spectron,Restricted,Y,N,CT,The Operation Riptide Collection
+Pistols,Five-SeveN,Angry Mob,Covert,Y,N,CT,The Prisma Collection
+Pistols,Five-SeveN,Anodized Gunmetal,Consumer Grade,N,N,CT,The Alpha Collection
+Pistols,Five-SeveN,Autumn Thicket,Consumer Grade,N,N,CT,The Radiant Collection
+Pistols,Five-SeveN,Berries And Cherries,Restricted,N,N,CT,The Control Collection
+Pistols,Five-SeveN,Boost Protocol,Restricted,Y,N,CT,The Operation Riptide Collection
+Pistols,Five-SeveN,Buddy,Restricted,Y,N,CT,The CS20 Collection
+Pistols,Five-SeveN,Candy Apple,Industrial Grade,N,N,CT,The Assault Collection
+Pistols,Five-SeveN,Capillary,Mil-Spec Grade,Y,N,CT,The Spectrum Collection
+Pistols,Five-SeveN,Case Hardened,Restricted,Y,N,CT,The Arms Deal 2 Collection
+Pistols,Five-SeveN,Contractor,Consumer Grade,N,Y,CT,The Mirage Collection
+Pistols,Five-SeveN,Coolant,Consumer Grade,N,Y,CT,The 2018 Nuke Collection
+Pistols,Five-SeveN,Copper Galaxy,Restricted,Y,N,CT,The Arms Deal 3 Collection
+Pistols,Five-SeveN,Crimson Blossom,Mil-Spec Grade,N,N,CT,The St. Marc Collection
+Pistols,Five-SeveN,Fairy Tale,Classified,Y,N,CT,The Operation Broken Fang Collection
+Pistols,Five-SeveN,Fall Hazard,Classified,N,Y,CT,The 2021 Vertigo Collection
+Pistols,Five-SeveN,Flame Test,Mil-Spec Grade,Y,N,CT,The Clutch Collection
+Pistols,Five-SeveN,Forest Night,Consumer Grade,N,Y,CT,The Train Collection
+Pistols,Five-SeveN,Fowl Play,Classified,Y,N,CT,The Breakout Collection
+Pistols,Five-SeveN,Heat Treated,Restricted,N,N,CT,The Sport & Field Collection
+Pistols,Five-SeveN,Hot Shot,Industrial Grade,N,Y,CT,The Cache Collection
+Pistols,Five-SeveN,Hybrid,Restricted,Y,N,CT,The Kilowatt Collection
+Pistols,Five-SeveN,Hyper Beast,Covert,Y,N,CT,The Operation Hydra Collection
+Pistols,Five-SeveN,Jungle,Consumer Grade,N,N,CT,The Aztec Collection
+Pistols,Five-SeveN,Kami,Mil-Spec Grade,Y,N,CT,The Winter Offensive Collection
+Pistols,Five-SeveN,Midnight Paintover,Industrial Grade,N,N,CT,The Overpass 2024 Collection
+Pistols,Five-SeveN,Monkey Business,Classified,Y,N,CT,The Chroma 2 Collection
+Pistols,Five-SeveN,Neon Kimono,Restricted,N,N,CT,The Rising Sun Collection
+Pistols,Five-SeveN,Nightshade,Mil-Spec Grade,Y,N,CT,The eSports 2013 Winter Collection
+Pistols,Five-SeveN,Nitro,Mil-Spec Grade,N,N,CT,The Chop Shop Collection
+Pistols,Five-SeveN,Orange Peel,Industrial Grade,N,Y,CT,The Dust 2 Collection
+Pistols,Five-SeveN,Retrobution,Restricted,Y,N,CT,The Revolver Case Collection
+Pistols,Five-SeveN,Scrawl,Mil-Spec Grade,Y,N,CT,The Dreams & Nightmares Collection
+Pistols,Five-SeveN,Scumbria,Mil-Spec Grade,Y,N,CT,The Gamma 2 Collection
+Pistols,Five-SeveN,Silver Quartz,Mil-Spec Grade,N,Y,CT,The Safehouse Collection
+Pistols,Five-SeveN,Sky Blue,Industrial Grade,N,N,CT,The Ascent Collection
+Pistols,Five-SeveN,Triumvirate,Restricted,Y,N,CT,The Wildfire Collection
+Pistols,Five-SeveN,Urban Hazard,Mil-Spec Grade,Y,N,CT,The Vanguard Collection
+Pistols,Five-SeveN,Violent Daimyo,Mil-Spec Grade,Y,N,CT,The Gamma Collection
+Pistols,Five-SeveN,Withered Vine,Industrial Grade,N,Y,CT,The 2021 Dust 2 Collection
+Rifles,G3SG1,Ancient Ritual,Industrial Grade,N,Y,T,The Ancient Collection
+Rifles,G3SG1,Arctic Camo,Industrial Grade,N,N,T,The Office Collection
+Rifles,G3SG1,Azure Zebra,Mil-Spec Grade,Y,N,T,The eSports 2013 Winter Collection
+Rifles,G3SG1,Black Sand,Mil-Spec Grade,Y,N,T,The Shattered Web Collection
+Rifles,G3SG1,Chronos,Restricted,N,N,T,The Gods and Monsters Collection
+Rifles,G3SG1,Contractor,Consumer Grade,N,N,T,The Baggage Collection
+Rifles,G3SG1,Demeter,Mil-Spec Grade,Y,N,T,The Bravo Collection
+Rifles,G3SG1,Desert Storm,Consumer Grade,N,Y,T,The Dust 2 Collection
+Rifles,G3SG1,Digital Mesh,Mil-Spec Grade,Y,N,T,The Operation Broken Fang Collection
+Rifles,G3SG1,Dream Glade,Restricted,Y,N,T,The Dreams & Nightmares Collection
+Rifles,G3SG1,Flux,Classified,Y,N,T,The Shadow Collection
+Rifles,G3SG1,Green Apple,Industrial Grade,N,N,T,The Bank Collection
+Rifles,G3SG1,Green Cell,Consumer Grade,N,N,T,The Boreal Collection
+Rifles,G3SG1,High Seas,Restricted,Y,N,T,The Horizon Collection
+Rifles,G3SG1,Hunter,Mil-Spec Grade,Y,N,T,The Spectrum 2 Collection
+Rifles,G3SG1,Jungle Dashed,Consumer Grade,N,Y,T,The Lake Collection
+Rifles,G3SG1,Keeping Tabs,Mil-Spec Grade,Y,N,T,The Operation Riptide Collection
+Rifles,G3SG1,Murky,Mil-Spec Grade,Y,N,T,The Vanguard Collection
+Rifles,G3SG1,New Roots,Mil-Spec Grade,N,Y,T,The 2021 Dust 2 Collection
+Rifles,G3SG1,Orange Crash,Mil-Spec Grade,Y,N,T,The Chroma 3 Collection
+Rifles,G3SG1,Orange Kimono,Consumer Grade,N,N,T,The Rising Sun Collection
+Rifles,G3SG1,Polar Camo,Consumer Grade,N,Y,T,The Train Collection
+Rifles,G3SG1,Red Jasper,Consumer Grade,N,N,T,The Radiant Collection
+Rifles,G3SG1,Safari Mesh,Consumer Grade,N,Y,T,The Mirage Collection
+Rifles,G3SG1,Scavenger,Restricted,Y,N,T,The Danger Zone Collection
+Rifles,G3SG1,Stinger,Restricted,Y,N,T,The Glove Collection
+Rifles,G3SG1,The Executioner,Classified,Y,N,T,The Revolver Case Collection
+Rifles,G3SG1,VariCamo,Industrial Grade,N,Y,T,The Safehouse Collection
+Rifles,G3SG1,Ventilator,Mil-Spec Grade,Y,N,T,The Gamma 2 Collection
+Rifles,G3SG1,Violet Murano,Mil-Spec Grade,N,N,T,The Canals Collection
+Rifles,Galil AR,Acid Dart,Industrial Grade,N,N,T,The Boreal Collection
+Rifles,Galil AR,Akoben,Mil-Spec Grade,Y,N,T,The Prisma Collection
+Rifles,Galil AR,Amber Fade,Mil-Spec Grade,N,Y,T,The 2021 Dust 2 Collection
+Rifles,Galil AR,Aqua Terrace,Mil-Spec Grade,N,N,T,The Rising Sun Collection
+Rifles,Galil AR,Black Sand,Mil-Spec Grade,Y,N,T,The Glove Collection
+Rifles,Galil AR,Blue Titanium,Mil-Spec Grade,Y,N,T,The eSports 2013 Winter Collection
+Rifles,Galil AR,CAUTION!,Restricted,N,Y,T,The 2021 Vertigo Collection
+Rifles,Galil AR,Cerberus,Restricted,N,Y,T,The Cache Collection
+Rifles,Galil AR,Chatterbox,Covert,Y,N,T,The Chroma Collection
+Rifles,Galil AR,Chromatic Aberration,Classified,Y,N,T,The Snakebite Collection
+Rifles,Galil AR,Cold Fusion,Industrial Grade,N,Y,T,The 2018 Nuke Collection
+Rifles,Galil AR,Connexion,Restricted,Y,N,T,The Fracture Collection
+Rifles,Galil AR,Control,Restricted,Y,N,T,The Fever Collection
+Rifles,Galil AR,Crimson Tsunami,Restricted,Y,N,T,The Spectrum Collection
+Rifles,Galil AR,Destroyer,Mil-Spec Grade,Y,N,T,The Recoil Collection
+Rifles,Galil AR,Dusk Ruins,Mil-Spec Grade,N,Y,T,The Ancient Collection
+Rifles,Galil AR,Eco,Classified,Y,N,T,The Chroma 2 Collection
+Rifles,Galil AR,Firefight,Restricted,Y,N,T,The Chroma 3 Collection
+Rifles,Galil AR,Green Apple,Industrial Grade,N,N,T,The Train 2025 Collection
+Rifles,Galil AR,Grey Smoke,Consumer Grade,N,N,T,The Ascent Collection
+Rifles,Galil AR,Hunting Blind,Consumer Grade,N,Y,T,The Mirage Collection
+Rifles,Galil AR,Kami,Mil-Spec Grade,Y,N,T,The Huntsman Collection
+Rifles,Galil AR,Metallic Squeezer,Mil-Spec Grade,N,N,T,The Overpass 2024 Collection
+Rifles,Galil AR,NV,Industrial Grade,N,N,T,The Graphic Design Collection
+Rifles,Galil AR,O-Ranger,Industrial Grade,N,N,T,The Radiant Collection
+Rifles,Galil AR,Orange DDPAT,Restricted,Y,N,T,The eSports 2013 Collection
+Rifles,Galil AR,Phoenix Blacklight,Restricted,N,N,T,The Havoc Collection
+Rifles,Galil AR,Rainbow Spoon,Classified,N,N,T,The Sport & Field Collection
+Rifles,Galil AR,Robin's Egg,Industrial Grade,N,N,T,The Ascent Collection
+Rifles,Galil AR,Rocket Pop,Mil-Spec Grade,Y,N,T,The Falchion Collection
+Rifles,Galil AR,Sage Spray,Consumer Grade,N,Y,T,The Lake Collection
+Rifles,Galil AR,Sandstorm,Mil-Spec Grade,Y,N,T,The Winter Offensive Collection
+Rifles,Galil AR,Shattered,Mil-Spec Grade,Y,N,T,The Bravo Collection
+Rifles,Galil AR,Signal,Restricted,Y,N,T,The Danger Zone Collection
+Rifles,Galil AR,Stone Cold,Restricted,Y,N,T,The Shadow Collection
+Rifles,Galil AR,Sugar Rush,Classified,Y,N,T,The Operation Hydra Collection
+Rifles,Galil AR,Tornado,Consumer Grade,N,N,T,The Norse Collection
+Rifles,Galil AR,Tuxedo,Mil-Spec Grade,N,N,T,The Bank Collection
+Rifles,Galil AR,Urban Rubble,Industrial Grade,N,N,T,The Chop Shop Collection
+Rifles,Galil AR,Vandal,Mil-Spec Grade,Y,N,T,The Operation Broken Fang Collection
+Rifles,Galil AR,VariCamo,Industrial Grade,N,Y,T,The Safehouse Collection
+Rifles,Galil AR,Winter Forest,Industrial Grade,N,N,T,The Office Collection
+Pistols,Glock-18,AXIA,Classified,N,N,T,The Sport & Field Collection
+Pistols,Glock-18,Block-18,Restricted,Y,N,T,The Kilowatt Collection
+Pistols,Glock-18,Blue Fissure,Mil-Spec Grade,Y,N,T,The Arms Deal 3 Collection
+Pistols,Glock-18,Brass,Restricted,N,N,T,The Dust Collection
+Pistols,Glock-18,Bullet Queen,Covert,Y,N,T,The Prisma 2 Collection
+Pistols,Glock-18,Bunsen Burner,Mil-Spec Grade,Y,N,T,The Falchion Collection
+Pistols,Glock-18,Candy Apple,Mil-Spec Grade,N,Y,T,The Italy Collection
+Pistols,Glock-18,Catacombs,Mil-Spec Grade,Y,N,T,The Chroma Collection
+Pistols,Glock-18,Clear Polymer,Mil-Spec Grade,Y,N,T,The Snakebite Collection
+Pistols,Glock-18,Coral Bloom,Mil-Spec Grade,N,N,T,The Radiant Collection
+Pistols,Glock-18,Death Rattle,Industrial Grade,N,N,T,The Bank Collection
+Pistols,Glock-18,Dragon Tattoo,Restricted,Y,N,T,The Arms Deal Collection
+Pistols,Glock-18,Fade,Restricted,N,N,T,The Assault Collection
+Pistols,Glock-18,Franklin,Restricted,N,N,T,The Havoc Collection
+Pistols,Glock-18,Gamma Doppler - Emerald,Covert,N,N,T,The 2021 Train Collection
+Pistols,Glock-18,Gamma Doppler - Phase 1,Covert,N,N,T,The 2021 Train Collection
+Pistols,Glock-18,Gamma Doppler - Phase 2,Covert,N,N,T,The 2021 Train Collection
+Pistols,Glock-18,Gamma Doppler - Phase 3,Covert,N,N,T,The 2021 Train Collection
+Pistols,Glock-18,Gamma Doppler - Phase 4,Covert,N,N,T,The 2021 Train Collection
+Pistols,Glock-18,Glockingbird,Restricted,N,N,T,The Boreal Collection
+Pistols,Glock-18,Gold Toof,Covert,Y,N,T,The Gallery Collection
+Pistols,Glock-18,Green Line,Mil-Spec Grade,N,N,T,The Train 2025 Collection
+Pistols,Glock-18,Grinder,Restricted,Y,N,T,The Vanguard Collection
+Pistols,Glock-18,Groundwater,Industrial Grade,N,Y,T,The Mirage Collection
+Pistols,Glock-18,High Beam,Industrial Grade,N,Y,T,The 2018 Inferno Collection
+Pistols,Glock-18,Ironwork,Mil-Spec Grade,Y,N,T,The Glove Collection
+Pistols,Glock-18,Mirror Mosaic,Classified,Y,N,T,The Genesis Collection
+Pistols,Glock-18,Moonrise,Restricted,Y,N,T,The Clutch Collection
+Pistols,Glock-18,Neo-Noir,Covert,Y,N,T,The Operation Broken Fang Collection
+Pistols,Glock-18,Night,Industrial Grade,N,Y,T,The Overpass Collection
+Pistols,Glock-18,Nuclear Garden,Restricted,N,Y,T,The 2018 Nuke Collection
+Pistols,Glock-18,Ocean Topo,Industrial Grade,N,N,T,The Ascent Collection
+Pistols,Glock-18,Off World,Mil-Spec Grade,Y,N,T,The Spectrum 2 Collection
+Pistols,Glock-18,Oxide Blaze,Mil-Spec Grade,Y,N,T,The Danger Zone Collection
+Pistols,Glock-18,Pink DDPAT,Restricted,N,Y,T,The 2021 Mirage Collection
+Pistols,Glock-18,Ramese's Reach,Restricted,N,Y,T,The Anubis Collection
+Pistols,Glock-18,Reactor,Mil-Spec Grade,N,Y,T,The Cache Collection
+Pistols,Glock-18,Red Tire,Industrial Grade,N,Y,T,The 2021 Vertigo Collection
+Pistols,Glock-18,Royal Legion,Restricted,Y,N,T,The Wildfire Collection
+Pistols,Glock-18,Sacrifice,Mil-Spec Grade,Y,N,T,The CS20 Collection
+Pistols,Glock-18,Sand Dune,Industrial Grade,N,N,T,The Alpha Collection
+Pistols,Glock-18,Shinobu,Classified,Y,N,T,The Fever Collection
+Pistols,Glock-18,Snack Attack,Classified,Y,N,T,The Operation Riptide Collection
+Pistols,Glock-18,Steel Disruption,Restricted,Y,N,T,The eSports 2014 Summer Collection
+Pistols,Glock-18,Synth Leaf,Restricted,N,N,T,The St. Marc Collection
+Pistols,Glock-18,Teal Graf,Mil-Spec Grade,N,N,T,The Overpass 2024 Collection
+Pistols,Glock-18,Twilight Galaxy,Classified,N,N,T,The Chop Shop Collection
+Pistols,Glock-18,Umbral Rabbit,Restricted,Y,N,T,The Revolution Collection
+Pistols,Glock-18,Vogue,Classified,Y,N,T,The Fracture Collection
+Pistols,Glock-18,Warhawk,Mil-Spec Grade,Y,N,T,The Horizon Collection
+Pistols,Glock-18,Wasteland Rebel,Covert,Y,N,T,The Gamma Collection
+Pistols,Glock-18,Water Elemental,Classified,Y,N,T,The Breakout Collection
+Pistols,Glock-18,Weasel,Restricted,Y,N,T,The Gamma 2 Collection
+Pistols,Glock-18,Winterized,Mil-Spec Grade,Y,N,T,The Recoil Collection
+Pistols,Glock-18,Wraiths,Mil-Spec Grade,Y,N,T,The Shadow Collection
+Heavy,M249,Aztec,Restricted,Y,N,Both,The CS20 Collection
+Heavy,M249,Blizzard Marbleized,Industrial Grade,N,N,Both,The Office Collection
+Heavy,M249,Contrast Spray,Consumer Grade,N,Y,Both,The Overpass Collection
+Heavy,M249,Deep Relief,Mil-Spec Grade,Y,N,Both,The Operation Broken Fang Collection
+Heavy,M249,Downtown,Restricted,Y,N,Both,The Recoil Collection
+Heavy,M249,Emerald Poison Dart,Restricted,Y,N,Both,The Spectrum Collection
+Heavy,M249,Gator Mesh,Industrial Grade,N,Y,Both,The Safehouse Collection
+Heavy,M249,Humidor,Mil-Spec Grade,N,Y,Both,The 2021 Mirage Collection
+Heavy,M249,Hypnosis,Mil-Spec Grade,Y,N,9INE,The Gallery Collection
+Heavy,M249,Impact Drill,Consumer Grade,N,N,Both,The Chop Shop Collection
+Heavy,M249,Jungle,Consumer Grade,N,N,Both,The St. Marc Collection
+Heavy,M249,Jungle DDPAT,Consumer Grade,N,N,Both,The Alpha Collection
+Heavy,M249,Magma,Mil-Spec Grade,Y,N,Both,The Winter Offensive Collection
+Heavy,M249,Midnight Palm,Industrial Grade,N,Y,Both,The 2021 Dust 2 Collection
+Heavy,M249,Nebula Crusader,Restricted,Y,N,Both,The Shadow Collection
+Heavy,M249,O.S.I.P.R.,Mil-Spec Grade,Y,N,Both,The Snakebite Collection
+Heavy,M249,Predator,Consumer Grade,N,N,Both,The Havoc Collection
+Heavy,M249,Sage Camo,Consumer Grade,N,N,Both,The Boreal Collection
+Heavy,M249,Shipping Forecast,Industrial Grade,N,N,Both,The Gods and Monsters Collection
+Heavy,M249,Spectre,Mil-Spec Grade,Y,N,Both,The Chroma 3 Collection
+Heavy,M249,Spectrogram,Industrial Grade,N,N,SK Gaming,The Graphic Design Collection
+Heavy,M249,Submerged,Consumer Grade,N,Y,Both,The Anubis Collection
+Heavy,M249,System Lock,Mil-Spec Grade,Y,N,Both,The Chroma Collection
+Heavy,M249,Warbird,Mil-Spec Grade,Y,N,Both,The Shattered Web Collection
+Rifles,M4A1-S,Atomic Alloy,Classified,Y,N,CT,The Huntsman Collection
+Rifles,M4A1-S,Basilisk,Restricted,Y,N,CT,The Vanguard Collection
+Rifles,M4A1-S,Black Lotus,Classified,Y,N,CT,The Kilowatt Collection
+Rifles,M4A1-S,Blood Tiger,Mil-Spec Grade,Y,N,CT,The Arms Deal 2 Collection
+Rifles,M4A1-S,Blue Phosphor,Classified,N,N,CT,The Control Collection
+Rifles,M4A1-S,Boreal Forest,Industrial Grade,N,Y,CT,The Italy Collection
+Rifles,M4A1-S,Briefing,Mil-Spec Grade,Y,N,CT,The Operation Hydra Collection
+Rifles,M4A1-S,Bright Water,Restricted,Y,N,CT,The Bravo Collection
+Rifles,M4A1-S,Chantico's Fire,Covert,Y,N,CT,The Chroma 3 Collection
+Rifles,M4A1-S,Control Panel,Classified,N,Y,CT,The 2018 Nuke Collection
+Rifles,M4A1-S,Cyrex,Covert,Y,N,CT,The Breakout Collection
+Rifles,M4A1-S,Dark Water,Restricted,Y,N,CT,The Arms Deal Collection
+Rifles,M4A1-S,Decimator,Classified,Y,N,CT,The Spectrum Collection
+Rifles,M4A1-S,Emphorosaur-S,Restricted,Y,N,CT,The Revolution Collection
+Rifles,M4A1-S,Fade,Covert,N,N,DK,The Sport & Field Collection
+Rifles,M4A1-S,Fizzy POP,Mil-Spec Grade,N,N,CT,The 2021 Train Collection
+Rifles,M4A1-S,Flashback,Restricted,Y,N,CT,The Glove Collection
+Rifles,M4A1-S,Glitched Paint,Restricted,N,N,CT,The Radiant Collection
+Rifles,M4A1-S,Golden Coil,Covert,Y,N,CT,The Shadow Collection
+Rifles,M4A1-S,Guardian,Classified,Y,N,CT,The Winter Offensive Collection
+Rifles,M4A1-S,Hot Rod,Classified,N,N,CT,The Chop Shop Collection
+Rifles,M4A1-S,Hyper Beast,Covert,Y,N,CT,The Chroma 2 Collection
+Rifles,M4A1-S,Icarus Fell,Restricted,N,N,CT,The Gods and Monsters Collection
+Rifles,M4A1-S,Imminent Danger,Covert,N,Y,CT,The 2021 Vertigo Collection
+Rifles,M4A1-S,Knight,Classified,N,Y,CT,The Cobblestone Collection
+Rifles,M4A1-S,Leaded Glass,Classified,Y,N,CT,The Spectrum 2 Collection
+Rifles,M4A1-S,Liquidation,Restricted,Y,N,DK,The Genesis Collection
+Rifles,M4A1-S,Master Piece,Classified,N,Y,CT,The Overpass Collection
+Rifles,M4A1-S,Mecha Industries,Covert,Y,N,CT,The Gamma Collection
+Rifles,M4A1-S,Moss Quartz,Industrial Grade,N,N,CT,The Norse Collection
+Rifles,M4A1-S,Mud-Spec,Industrial Grade,N,Y,CT,The Anubis Collection
+Rifles,M4A1-S,Night Terror,Restricted,Y,N,CT,The Dreams & Nightmares Collection
+Rifles,M4A1-S,Nightmare,Classified,Y,N,CT,The Horizon Collection
+Rifles,M4A1-S,Nitro,Restricted,N,Y,CT,The Safehouse Collection
+Rifles,M4A1-S,Player Two,Covert,Y,N,CT,The Prisma 2 Collection
+Rifles,M4A1-S,Printstream,Covert,Y,N,CT,The Operation Broken Fang Collection
+Rifles,M4A1-S,Rose Hex,Mil-Spec Grade,N,N,CT,The Radiant Collection
+Rifles,M4A1-S,Solitude,Classified,N,N,DK,Limited Edition Item
+Rifles,M4A1-S,Stratosphere,Classified,N,N,CT,The Ascent Collection
+Rifles,M4A1-S,Vaporwave,Covert,Y,N,MOUZ,The Gallery Collection
+Rifles,M4A1-S,VariCamo,Mil-Spec Grade,N,Y,CT,The Dust 2 Collection
+Rifles,M4A1-S,Wash me plz,Industrial Grade,N,N,DK,The Overpass 2024 Collection
+Rifles,M4A1-S,Welcome to the Jungle,Covert,N,Y,CT,The Ancient Collection
+Rifles,M4A4,Asiimov,Covert,Y,N,CT,The Winter Offensive Collection
+Rifles,M4A4,Bullet Rain,Covert,Y,N,CT,The eSports 2014 Summer Collection
+Rifles,M4A4,Buzz Kill,Covert,Y,N,CT,The Glove Collection
+Rifles,M4A4,Choppa,Mil-Spec Grade,Y,N,CT,The Fever Collection
+Rifles,M4A4,Converter,Mil-Spec Grade,N,Y,CT,The 2018 Inferno Collection
+Rifles,M4A4,Cyber Security,Classified,Y,N,CT,The Operation Broken Fang Collection
+Rifles,M4A4,Dark Blossom,Industrial Grade,N,N,CT,The St. Marc Collection
+Rifles,M4A4,Daybreak,Restricted,N,N,CT,The Rising Sun Collection
+Rifles,M4A4,Desert Storm,Industrial Grade,N,N,CT,The Dust Collection
+Rifles,M4A4,Desert-Strike,Covert,Y,N,CT,The Huntsman Collection
+Rifles,M4A4,Desolate Space,Classified,Y,N,CT,The Gamma Collection
+Rifles,M4A4,Etch Lord,Restricted,Y,N,CT,The Kilowatt Collection
+Rifles,M4A4,Evil Daimyo,Restricted,Y,N,CT,The Falchion Collection
+Rifles,M4A4,Eye of Horus,Covert,N,Y,CT,The Anubis Collection
+Rifles,M4A4,Faded Zebra,Mil-Spec Grade,Y,N,CT,The eSports 2013 Collection
+Rifles,M4A4,Full Throttle,Covert,Y,N,CT,The Genesis Collection
+Rifles,M4A4,Global Offensive,Mil-Spec Grade,N,N,CT,The Control Collection
+Rifles,M4A4,Griffin,Restricted,Y,N,CT,The Vanguard Collection
+Rifles,M4A4,Hellfire,Classified,Y,N,CT,The Operation Hydra Collection
+Rifles,M4A4,Hellish,Classified,N,N,CT,The Train 2025 Collection
+Rifles,M4A4,Howl,Contraband,Y,N,CT,
+Rifles,M4A4,In Living Color,Covert,Y,N,CT,The Snakebite Collection
+Rifles,M4A4,Jungle Tiger,Industrial Grade,N,N,CT,The Aztec Collection
+Rifles,M4A4,Magnesium,Mil-Spec Grade,Y,N,CT,The Danger Zone Collection
+Rifles,M4A4,Mainframe,Industrial Grade,N,Y,CT,The 2018 Nuke Collection
+Rifles,M4A4,Modern Hunter,Restricted,N,N,CT,The Militia Collection
+Rifles,M4A4,Naval Shred Camo,Industrial Grade,N,N,CT,The Ascent Collection
+Rifles,M4A4,Neo-Noir,Covert,Y,N,CT,The Clutch Collection
+Rifles,M4A4,Poly Mag,Mil-Spec Grade,Y,N,CT,The Recoil Collection
+Rifles,M4A4,Polysoup,Restricted,N,N,CT,The Graphic Design Collection
+Rifles,M4A4,Poseidon,Classified,N,N,CT,The Gods and Monsters Collection
+Rifles,M4A4,Radiation Hazard,Mil-Spec Grade,N,Y,CT,The Nuke Collection
+Rifles,M4A4,Red DDPAT,Restricted,N,Y,CT,The 2021 Dust 2 Collection
+Rifles,M4A4,Royal Paladin,Covert,Y,N,CT,The Revolver Case Collection
+Rifles,M4A4,Sheet Lightning,Restricted,N,N,CT,The Boreal Collection
+Rifles,M4A4,Spider Lily,Restricted,Y,N,CT,The Operation Riptide Collection
+Rifles,M4A4,Steel Work,Industrial Grade,N,N,CT,The Radiant Collection
+Rifles,M4A4,Temukau,Covert,Y,N,CT,The Revolution Collection
+Rifles,M4A4,The Battlestar,Covert,Y,N,CT,The Wildfire Collection
+Rifles,M4A4,The Coalition,Covert,N,N,CT,The 2021 Train Collection
+Rifles,M4A4,The Emperor,Covert,Y,N,CT,The Prisma Collection
+Rifles,M4A4,Tooth Fairy,Classified,Y,N,CT,The Fracture Collection
+Rifles,M4A4,Tornado,Industrial Grade,N,Y,CT,The Inferno Collection
+Rifles,M4A4,Turbine,Restricted,Y,N,118,The Gallery Collection
+Rifles,M4A4,Urban DDPAT,Industrial Grade,N,Y,CT,The Train Collection
+Rifles,M4A4,X-Ray,Covert,Y,N,CT,The eSports 2013 Winter Collection
+Rifles,M4A4,Zirka,Restricted,Y,N,CT,The Bravo Collection
+Rifles,M4A4,龍王 (Dragon King),Classified,Y,N,CT,The Chroma Collection
+SMGs,MAC-10,Acid Hex,Industrial Grade,N,N,T,The Boreal Collection
+SMGs,MAC-10,Allure,Restricted,Y,N,T,The Fracture Collection
+SMGs,MAC-10,Aloha,Mil-Spec Grade,Y,N,T,The Operation Hydra Collection
+SMGs,MAC-10,Amber Fade,Mil-Spec Grade,N,Y,T,The Mirage Collection
+SMGs,MAC-10,Bronzer,Consumer Grade,N,N,T,The Radiant Collection
+SMGs,MAC-10,Button Masher,Restricted,Y,N,T,The Snakebite Collection
+SMGs,MAC-10,Calf Skin,Industrial Grade,N,Y,T,The 2018 Inferno Collection
+SMGs,MAC-10,Candy Apple,Industrial Grade,N,Y,T,The Train Collection
+SMGs,MAC-10,Carnivore,Mil-Spec Grade,Y,N,T,The Gamma Collection
+SMGs,MAC-10,Case Hardened,Restricted,N,Y,T,The 2021 Dust 2 Collection
+SMGs,MAC-10,Cat Fight,Restricted,Y,N,T,The Genesis Collection
+SMGs,MAC-10,Classic Crate,Mil-Spec Grade,Y,N,T,The CS20 Collection
+SMGs,MAC-10,Commuter,Industrial Grade,N,N,T,The Baggage Collection
+SMGs,MAC-10,Copper Borre,Mil-Spec Grade,N,N,T,The Norse Collection
+SMGs,MAC-10,Curse,Restricted,Y,N,T,The Huntsman Collection
+SMGs,MAC-10,Derailment,Restricted,N,N,T,The Train 2025 Collection
+SMGs,MAC-10,Disco Tech,Classified,Y,N,T,The Prisma 2 Collection
+SMGs,MAC-10,Echoing Sands,Industrial Grade,N,Y,T,The Anubis Collection
+SMGs,MAC-10,Ensnared,Mil-Spec Grade,Y,N,T,The Dreams & Nightmares Collection
+SMGs,MAC-10,Fade,Mil-Spec Grade,N,N,T,The Chop Shop Collection
+SMGs,MAC-10,Gold Brick,Restricted,N,Y,T,The Ancient Collection
+SMGs,MAC-10,Graven,Restricted,Y,N,T,The Bravo Collection
+SMGs,MAC-10,Heat,Restricted,Y,N,T,The Phoenix Collection
+SMGs,MAC-10,Hot Snakes,Classified,N,N,T,The Havoc Collection
+SMGs,MAC-10,Indigo,Consumer Grade,N,Y,T,The Cobblestone Collection
+SMGs,MAC-10,Lapis Gator,Mil-Spec Grade,Y,N,T,The Wildfire Collection
+SMGs,MAC-10,Last Dive,Restricted,Y,N,T,The Spectrum Collection
+SMGs,MAC-10,Light Box,Mil-Spec Grade,Y,N,T,The Kilowatt Collection
+SMGs,MAC-10,Malachite,Restricted,Y,N,T,The Chroma Collection
+SMGs,MAC-10,Monkeyflage,Mil-Spec Grade,Y,N,T,The Recoil Collection
+SMGs,MAC-10,Neon Rider,Covert,Y,N,T,The Chroma 2 Collection
+SMGs,MAC-10,Nuclear Garden,Mil-Spec Grade,N,Y,T,The Cache Collection
+SMGs,MAC-10,Oceanic,Mil-Spec Grade,Y,N,T,The Spectrum 2 Collection
+SMGs,MAC-10,Palm,Industrial Grade,N,Y,T,The Dust 2 Collection
+SMGs,MAC-10,Pipe Down,Restricted,Y,N,T,The Danger Zone Collection
+SMGs,MAC-10,Pipsqueak,Mil-Spec Grade,N,N,T,The Overpass 2024 Collection
+SMGs,MAC-10,Poplar Thicket,Mil-Spec Grade,N,N,T,The Boreal Collection
+SMGs,MAC-10,Propaganda,Classified,N,N,T,The 2021 Train Collection
+SMGs,MAC-10,Rangeen,Mil-Spec Grade,Y,N,T,The Shadow Collection
+SMGs,MAC-10,Red Filigree,Restricted,N,N,T,The Canals Collection
+SMGs,MAC-10,Saibā Oni,Restricted,Y,N,T,The Gallery Collection
+SMGs,MAC-10,Sakkaku,Restricted,Y,N,T,The Revolution Collection
+SMGs,MAC-10,Sienna Damask,Consumer Grade,N,Y,T,The 2021 Mirage Collection
+SMGs,MAC-10,Silver,Industrial Grade,N,N,T,The Bank Collection
+SMGs,MAC-10,Stalker,Covert,Y,N,T,The Shattered Web Collection
+SMGs,MAC-10,Storm Camo,Consumer Grade,N,N,T,The Ascent Collection
+SMGs,MAC-10,Strats,Consumer Grade,N,Y,T,The 2021 Vertigo Collection
+SMGs,MAC-10,Surfwood,Consumer Grade,N,N,T,The St. Marc Collection
+SMGs,MAC-10,Tatter,Restricted,Y,N,T,The Huntsman Collection
+SMGs,MAC-10,Tornado,Consumer Grade,N,N,T,The Militia Collection
+SMGs,MAC-10,Toybox,Classified,Y,N,T,The Operation Riptide Collection
+SMGs,MAC-10,Ultraviolet,Mil-Spec Grade,Y,N,T,The eSports 2014 Summer Collection
+SMGs,MAC-10,Urban DDPAT,Consumer Grade,N,Y,T,The Vertigo Collection
+SMGs,MAC-10,Whitefish,Mil-Spec Grade,Y,N,T,The Prisma Collection
+Heavy,MAG-7,BI83 Spectrum,Restricted,Y,N,CT,The Operation Riptide Collection
+Heavy,MAG-7,Bulldozer,Restricted,N,Y,CT,The Mirage Collection
+Heavy,MAG-7,Carbon Fiber,Industrial Grade,N,N,CT,The Control Collection
+Heavy,MAG-7,Chainmail,Industrial Grade,N,N,CT,The Norse Collection
+Heavy,MAG-7,Cinquedea,Classified,N,N,CT,The Canals Collection
+Heavy,MAG-7,Cobalt Core,Mil-Spec Grade,Y,N,CT,The Shadow Collection
+Heavy,MAG-7,Copper Coated,Mil-Spec Grade,N,Y,CT,The Anubis Collection
+Heavy,MAG-7,Copper Oxide,Consumer Grade,N,N,CT,The Boreal Collection
+Heavy,MAG-7,Core Breach,Restricted,N,Y,CT,The 2018 Nuke Collection
+Heavy,MAG-7,Counter Terrace,Mil-Spec Grade,N,N,CT,The Rising Sun Collection
+Heavy,MAG-7,Firestarter,Mil-Spec Grade,Y,N,CT,The Vanguard Collection
+Heavy,MAG-7,Foresight,Mil-Spec Grade,Y,N,CT,The Dreams & Nightmares Collection
+Heavy,MAG-7,Hard Water,Mil-Spec Grade,Y,N,CT,The Operation Hydra Collection
+Heavy,MAG-7,Hazard,Mil-Spec Grade,N,N,CT,The Alpha Collection
+Heavy,MAG-7,Heat,Restricted,Y,N,CT,The Chroma 2 Collection
+Heavy,MAG-7,Heaven Guard,Mil-Spec Grade,Y,N,CT,The Phoenix Collection
+Heavy,MAG-7,Insomnia,Mil-Spec Grade,Y,N,CT,The Revolution Collection
+Heavy,MAG-7,Irradiated Alert,Consumer Grade,N,Y,CT,The Nuke Collection
+Heavy,MAG-7,Justice,Classified,Y,N,CT,The Prisma 2 Collection
+Heavy,MAG-7,MAGnitude,Mil-Spec Grade,Y,N,CT,The Genesis Collection
+Heavy,MAG-7,Memento,Mil-Spec Grade,Y,N,CT,The eSports 2013 Collection
+Heavy,MAG-7,Metallic DDPAT,Industrial Grade,N,Y,CT,The Train Collection
+Heavy,MAG-7,Monster Call,Restricted,Y,N,CT,The Fracture Collection
+Heavy,MAG-7,Navy Sheen,Consumer Grade,N,Y,CT,The 2021 Mirage Collection
+Heavy,MAG-7,Petroglyph,Restricted,Y,N,CT,The Gamma 2 Collection
+Heavy,MAG-7,Popdog,Mil-Spec Grade,Y,N,CT,The CS20 Collection
+Heavy,MAG-7,Praetorian,Restricted,Y,N,CT,The Wildfire Collection
+Heavy,MAG-7,Prism Terrace,Restricted,N,Y,CT,The 2021 Vertigo Collection
+Heavy,MAG-7,Resupply,Mil-Spec Grade,Y,N,CT,The Fever Collection
+Heavy,MAG-7,Rust Coat,Consumer Grade,N,Y,CT,The 2018 Inferno Collection
+Heavy,MAG-7,Sand Dune,Consumer Grade,N,Y,CT,The Inferno Collection
+Heavy,MAG-7,Seabird,Consumer Grade,N,N,CT,The Chop Shop Collection
+Heavy,MAG-7,Silver,Industrial Grade,N,Y,CT,The Cobblestone Collection
+Heavy,MAG-7,Sonar,Mil-Spec Grade,Y,N,CT,The Glove Collection
+Heavy,MAG-7,Storm,Consumer Grade,N,Y,CT,The Overpass Collection
+Heavy,MAG-7,SWAG-7,Restricted,Y,N,CT,The Clutch Collection
+Heavy,MAG-7,Wildwood,Industrial Grade,N,N,TIT,The Sport & Field Collection
+SMGs,MP5-SD,Acid Wash,Mil-Spec Grade,Y,N,Both,The Shattered Web Collection
+SMGs,MP5-SD,Agent,Restricted,Y,N,Both,The CS20 Collection
+SMGs,MP5-SD,Autumn Twilly,Restricted,N,N,Both,The 2021 Train Collection
+SMGs,MP5-SD,Bamboo Garden,Consumer Grade,N,N,Both,The St. Marc Collection
+SMGs,MP5-SD,Co-Processor,Mil-Spec Grade,N,Y,Both,The 2018 Nuke Collection
+SMGs,MP5-SD,Condition Zero,Mil-Spec Grade,Y,N,Both,The Operation Broken Fang Collection
+SMGs,MP5-SD,Desert Strike,Mil-Spec Grade,Y,N,Both,The Prisma 2 Collection
+SMGs,MP5-SD,Dirt Drop,Consumer Grade,N,Y,Both,The 2018 Inferno Collection
+SMGs,MP5-SD,Focus,Mil-Spec Grade,Y,N,Both,The Genesis Collection
+SMGs,MP5-SD,Gauss,Restricted,Y,N,Both,The Prisma Collection
+SMGs,MP5-SD,Gold Leaf,Mil-Spec Grade,N,N,Both,The Boreal Collection
+SMGs,MP5-SD,Kitbash,Restricted,Y,N,Both,The Fracture Collection
+SMGs,MP5-SD,Lab Rats,Restricted,N,Y,Both,The Blacksite Collection
+SMGs,MP5-SD,Lime Hex,Consumer Grade,N,N,Both,The Ascent Collection
+SMGs,MP5-SD,Liquidation,Mil-Spec Grade,Y,N,Both,The Revolution Collection
+SMGs,MP5-SD,Necro Jr.,Mil-Spec Grade,Y,N,Both,The Dreams & Nightmares Collection
+SMGs,MP5-SD,Neon Squeezer,Industrial Grade,N,N,Both,The Overpass 2024 Collection
+SMGs,MP5-SD,Nitro,Industrial Grade,N,N,Both,The Control Collection
+SMGs,MP5-SD,Oxide Oasis,Classified,N,Y,Both,The 2021 Mirage Collection
+SMGs,MP5-SD,Phosphor,Classified,Y,N,Both,The Danger Zone Collection
+SMGs,MP5-SD,Savannah Halftone,Industrial Grade,N,N,Both,The Sport & Field Collection
+SMGs,MP5-SD,Statics,Mil-Spec Grade,Y,N,Both,The Gallery Collection
+SMGs,MP7,Abyssal Apparition,Classified,Y,N,Both,The Dreams & Nightmares Collection
+SMGs,MP7,Akoben,Mil-Spec Grade,Y,N,Both,The Spectrum Collection
+SMGs,MP7,Anodized Navy,Mil-Spec Grade,N,Y,Both,The Italy Collection
+SMGs,MP7,Armor Core,Mil-Spec Grade,Y,N,Both,The Chroma 2 Collection
+SMGs,MP7,Army Recon,Consumer Grade,N,Y,Both,The Safehouse Collection
+SMGs,MP7,Asterion,Consumer Grade,N,N,Both,The Gods and Monsters Collection
+SMGs,MP7,Astrolabe,Industrial Grade,N,N,33,The Graphic Design Collection
+SMGs,MP7,Bloodsport,Covert,Y,N,Both,The Clutch Collection
+SMGs,MP7,Cirrus,Mil-Spec Grade,Y,N,Both,The Glove Collection
+SMGs,MP7,Fade,Restricted,N,Y,Both,The 2018 Inferno Collection
+SMGs,MP7,Forest DDPAT,Consumer Grade,N,N,Both,The Bank Collection
+SMGs,MP7,Full Stop,Mil-Spec Grade,N,N,Both,The Chop Shop Collection
+SMGs,MP7,Groundwater,Consumer Grade,N,N,Both,The Alpha Collection
+SMGs,MP7,Guerrilla,Mil-Spec Grade,Y,N,Both,The Operation Riptide Collection
+SMGs,MP7,Gunsmoke,Industrial Grade,N,Y,Both,The Overpass Collection
+SMGs,MP7,Impire,Restricted,Y,N,Both,The Wildfire Collection
+SMGs,MP7,Just Smile,Restricted,Y,N,Both,The Kilowatt Collection
+SMGs,MP7,Mischief,Mil-Spec Grade,Y,N,Both,The Prisma Collection
+SMGs,MP7,Motherboard,Industrial Grade,N,Y,Both,The 2018 Nuke Collection
+SMGs,MP7,Nemesis,Classified,Y,N,Both,The Falchion Collection
+SMGs,MP7,Neon Ply,Restricted,Y,N,Both,The Shattered Web Collection
+SMGs,MP7,Ocean Foam,Restricted,Y,N,Both,The eSports 2014 Summer Collection
+SMGs,MP7,Olive Plaid,Consumer Grade,N,N,Both,The Baggage Collection
+SMGs,MP7,Orange Peel,Industrial Grade,N,Y,Both,The Mirage Collection
+SMGs,MP7,Powercore,Restricted,Y,N,Both,The Horizon Collection
+SMGs,MP7,Prey,Consumer Grade,N,Y,Both,The 2021 Dust 2 Collection
+SMGs,MP7,Scorched,Consumer Grade,N,N,Both,The Norse Collection
+SMGs,MP7,Short Ochre,Consumer Grade,N,N,Both,The Radiant Collection
+SMGs,MP7,Skulls,Mil-Spec Grade,Y,N,Both,The Arms Deal Collection
+SMGs,MP7,Smoking Kills,Classified,Y,N,33,The Genesis Collection
+SMGs,MP7,Special Delivery,Restricted,Y,N,Both,The Shadow Collection
+SMGs,MP7,Sunbaked,Consumer Grade,N,Y,Both,The Anubis Collection
+SMGs,MP7,Tall Grass,Industrial Grade,N,Y,Both,The Ancient Collection
+SMGs,MP7,Teal Blossom,Mil-Spec Grade,N,N,Both,The St. Marc Collection
+SMGs,MP7,Urban Hazard,Mil-Spec Grade,Y,N,Both,The Breakout Collection
+SMGs,MP7,Vault Heist,Industrial Grade,N,N,Both,The Havoc Collection
+SMGs,MP7,Whiteout,Mil-Spec Grade,N,N,Both,The Office Collection
+SMGs,MP9,Airlock,Classified,Y,N,CT,The Gamma 2 Collection
+SMGs,MP9,Arctic Tri-Tone,Restricted,N,N,CT,The Sport & Field Collection
+SMGs,MP9,Army Sheen,Consumer Grade,N,N,CT,The Control Collection
+SMGs,MP9,Bioleak,Mil-Spec Grade,Y,N,CT,The Chroma 3 Collection
+SMGs,MP9,Black Sand,Mil-Spec Grade,Y,N,CT,The Clutch Collection
+SMGs,MP9,Broken Record,Mil-Spec Grade,Y,N,CT,The Genesis Collection
+SMGs,MP9,Buff Blue,Consumer Grade,N,N,CT,The Ascent Collection
+SMGs,MP9,Bulldozer,Restricted,N,N,CT,The Assault Collection
+SMGs,MP9,Capillary,Mil-Spec Grade,Y,N,CT,The Horizon Collection
+SMGs,MP9,Cobalt Paisley,Mil-Spec Grade,N,N,CT,The Ascent Collection
+SMGs,MP9,Dark Age,Mil-Spec Grade,N,Y,CT,The Cobblestone Collection
+SMGs,MP9,Dart,Mil-Spec Grade,Y,N,CT,The Vanguard Collection
+SMGs,MP9,Deadly Poison,Mil-Spec Grade,Y,N,CT,The Chroma Collection
+SMGs,MP9,Dry Season,Consumer Grade,N,N,CT,The Alpha Collection
+SMGs,MP9,Featherweight,Mil-Spec Grade,Y,N,CT,The Revolution Collection
+SMGs,MP9,Food Chain,Classified,Y,N,CT,The Snakebite Collection
+SMGs,MP9,Goo,Restricted,Y,N,CT,The Spectrum 2 Collection
+SMGs,MP9,Green Plaid,Consumer Grade,N,N,CT,The Baggage Collection
+SMGs,MP9,Hot Rod,Mil-Spec Grade,N,Y,CT,The Mirage Collection
+SMGs,MP9,Hydra,Classified,Y,N,CT,The CS20 Collection
+SMGs,MP9,Hypnotic,Restricted,Y,N,CT,The Arms Deal 2 Collection
+SMGs,MP9,Latte Rush,Classified,N,N,CT,The Train 2025 Collection
+SMGs,MP9,Modest Threat,Mil-Spec Grade,Y,N,CT,The Danger Zone Collection
+SMGs,MP9,Mount Fuji,Restricted,Y,N,CT,The Operation Riptide Collection
+SMGs,MP9,Multi-Terrain,Consumer Grade,N,N,CT,The Radiant Collection
+SMGs,MP9,Music Box,Mil-Spec Grade,N,Y,CT,The 2021 Mirage Collection
+SMGs,MP9,Nexus,Mil-Spec Grade,Y,N,CT,The Fever Collection
+SMGs,MP9,Old Roots,Industrial Grade,N,Y,CT,The 2021 Dust 2 Collection
+SMGs,MP9,Orange Peel,Industrial Grade,N,Y,CT,The Safehouse Collection
+SMGs,MP9,Pandora's Box,Mil-Spec Grade,N,N,CT,The Gods and Monsters Collection
+SMGs,MP9,Pine,Consumer Grade,N,N,CT,The Boreal Collection
+SMGs,MP9,Rose Iron,Restricted,Y,N,CT,The Winter Offensive Collection
+SMGs,MP9,Ruby Poison Dart,Restricted,Y,N,CT,The Falchion Collection
+SMGs,MP9,Sand Dashed,Consumer Grade,N,Y,CT,The Dust 2 Collection
+SMGs,MP9,Sand Scale,Mil-Spec Grade,Y,N,CT,The Glove Collection
+SMGs,MP9,Setting Sun,Mil-Spec Grade,N,Y,CT,The Cache Collection
+SMGs,MP9,Shredded,Mil-Spec Grade,N,N,CT,The Radiant Collection
+SMGs,MP9,Slide,Consumer Grade,N,Y,CT,The 2018 Inferno Collection
+SMGs,MP9,Stained Glass,Restricted,N,N,CT,The Canals Collection
+SMGs,MP9,Starlight Protector,Covert,Y,N,CT,The Dreams & Nightmares Collection
+SMGs,MP9,Storm,Consumer Grade,N,Y,CT,The Overpass Collection
+SMGs,MP9,Wild Lily,Classified,N,N,CT,The St. Marc Collection
+Heavy,Negev,Anodized Navy,Mil-Spec Grade,N,N,Both,The Assault Collection
+Heavy,Negev,Army Sheen,Consumer Grade,N,N,Both,The Bank Collection
+Heavy,Negev,Boroque Sand,Consumer Grade,N,N,Both,The Canals Collection
+Heavy,Negev,Bratatat,Mil-Spec Grade,Y,N,Both,The eSports 2014 Summer Collection
+Heavy,Negev,Bulkhead,Industrial Grade,N,Y,Both,The 2018 Nuke Collection
+Heavy,Negev,CaliCamo,Industrial Grade,N,Y,Both,The Mirage Collection
+Heavy,Negev,Dazzle,Mil-Spec Grade,Y,N,Both,The Gamma 2 Collection
+Heavy,Negev,Desert-Strike,Mil-Spec Grade,Y,N,Both,The Breakout Collection
+Heavy,Negev,dev_texture,Restricted,Y,N,Both,The Snakebite Collection
+Heavy,Negev,Drop Me,Mil-Spec Grade,Y,N,Both,The Recoil Collection
+Heavy,Negev,Infrastructure,Mil-Spec Grade,N,Y,Both,The 2021 Vertigo Collection
+Heavy,Negev,Lionfish,Restricted,Y,N,Both,The Clutch Collection
+Heavy,Negev,Loudmouth,Restricted,Y,N,Both,The Falchion Collection
+Heavy,Negev,Man-o'-war,Mil-Spec Grade,Y,N,Both,The Chroma 2 Collection
+Heavy,Negev,Mjölnir,Classified,N,N,Both,The Norse Collection
+Heavy,Negev,Nuclear Waste,Industrial Grade,N,Y,Both,The Cache Collection
+Heavy,Negev,Palm,Industrial Grade,N,N,Both,The Alpha Collection
+Heavy,Negev,Phoenix Stencil,Mil-Spec Grade,N,N,Both,The Havoc Collection
+Heavy,Negev,Power Loader,Restricted,Y,N,Both,The Revolver Case Collection
+Heavy,Negev,Prototype,Mil-Spec Grade,Y,N,Both,The Prisma 2 Collection
+Heavy,Negev,Raw Ceramic,Consumer Grade,N,N,Both,The Boreal Collection
+Heavy,Negev,Sour Grapes,Industrial Grade,N,N,Both,The Ascent Collection
+Heavy,Negev,Terrain,Mil-Spec Grade,Y,N,Both,The Phoenix Collection
+Heavy,Negev,Ultralight,Mil-Spec Grade,Y,N,Both,The Fracture Collection
+Heavy,Negev,Wall Bang,Industrial Grade,N,N,Both,The Overpass 2024 Collection
+Heavy,Nova,Antique,Classified,Y,N,Both,The Phoenix Collection
+Heavy,Nova,Army Sheen,Consumer Grade,N,Y,Both,The Ancient Collection
+Heavy,Nova,Baroque Orange,Restricted,N,N,Both,The Canals Collection
+Heavy,Nova,Blaze Orange,Mil-Spec Grade,N,N,Both,The Militia Collection
+Heavy,Nova,Bloomstick,Classified,Y,N,Both,The eSports 2014 Summer Collection
+Heavy,Nova,Caged Steel,Industrial Grade,N,N,Both,The Bank Collection
+Heavy,Nova,Candy Apple,Industrial Grade,N,Y,Both,The Italy Collection
+Heavy,Nova,Clear Polymer,Restricted,Y,N,Both,The Operation Broken Fang Collection
+Heavy,Nova,Dark Sigil,Mil-Spec Grade,Y,N,Both,The Kilowatt Collection
+Heavy,Nova,Exo,Mil-Spec Grade,Y,N,Both,The Gamma Collection
+Heavy,Nova,Forest Leaves,Consumer Grade,N,N,Both,The Aztec Collection
+Heavy,Nova,Ghost Camo,Mil-Spec Grade,Y,N,Both,The eSports 2013 Winter Collection
+Heavy,Nova,Gila,Restricted,Y,N,Both,The Glove Collection
+Heavy,Nova,Graphite,Restricted,Y,N,Both,The Arms Deal 2 Collection
+Heavy,Nova,Green Apple,Industrial Grade,N,Y,Both,The Cobblestone Collection
+Heavy,Nova,Hyper Beast,Classified,Y,N,Both,The Wildfire Collection
+Heavy,Nova,Interlock,Mil-Spec Grade,N,Y,Both,The 2021 Vertigo Collection
+Heavy,Nova,Koi,Restricted,Y,N,Both,The Breakout Collection
+Heavy,Nova,Mandrel,Consumer Grade,N,Y,Both,The 2018 Nuke Collection
+Heavy,Nova,Marsh Grass,Consumer Grade,N,N,Both,The Radiant Collection
+Heavy,Nova,Modern Hunter,Mil-Spec Grade,N,N,Both,The Militia Collection
+Heavy,Nova,Moon in Libra,Consumer Grade,N,N,Both,The Gods and Monsters Collection
+Heavy,Nova,Ocular,Restricted,Y,N,Both,The Genesis Collection
+Heavy,Nova,Plume,Mil-Spec Grade,Y,N,Both,The Shattered Web Collection
+Heavy,Nova,Polar Mesh,Consumer Grade,N,Y,Both,The Train Collection
+Heavy,Nova,Predator,Consumer Grade,N,Y,Both,The Dust 2 Collection
+Heavy,Nova,Quick Sand,Mil-Spec Grade,N,Y,Both,The 2021 Dust 2 Collection
+Heavy,Nova,Rain Station,Industrial Grade,N,N,Both,The Train 2025 Collection
+Heavy,Nova,Ranger,Mil-Spec Grade,Y,N,Both,The Falchion Collection
+Heavy,Nova,Red Quartz,Restricted,N,N,Both,The 2021 Train Collection
+Heavy,Nova,Rising Skull,Restricted,Y,N,Both,The Winter Offensive Collection
+Heavy,Nova,Rising Sun,Restricted,Y,N,Both,The Fever Collection
+Heavy,Nova,Rust Coat,Industrial Grade,N,N,Both,The Havoc Collection
+Heavy,Nova,Sand Dune,Consumer Grade,N,Y,Both,The Italy Collection
+Heavy,Nova,Sobek's Bite,Restricted,N,Y,Both,The Anubis Collection
+Heavy,Nova,Tempest,Mil-Spec Grade,Y,N,Both,The Bravo Collection
+Heavy,Nova,Toy Soldier,Restricted,Y,N,Both,The Horizon Collection
+Heavy,Nova,Turquoise Pour,Industrial Grade,N,N,Both,The Ascent Collection
+Heavy,Nova,Walnut,Consumer Grade,N,Y,Both,The Inferno Collection
+Heavy,Nova,Wild Six,Restricted,Y,N,Both,The Clutch Collection
+Heavy,Nova,Windblown,Mil-Spec Grade,Y,N,Both,The Snakebite Collection
+Heavy,Nova,Wood Fired,Mil-Spec Grade,Y,N,Both,The Danger Zone Collection
+Heavy,Nova,Wurst Hölle,Mil-Spec Grade,N,N,Both,The Overpass 2024 Collection
+Heavy,Nova,Yorkshire,Mil-Spec Grade,N,N,Both,The Sport & Field Collection
+Pistols,P2000,Acid Etched,Restricted,Y,N,CT,The Prisma 2 Collection
+Pistols,P2000,Amber Fade,Restricted,N,Y,CT,The Dust 2 Collection
+Pistols,P2000,Chainmail,Mil-Spec Grade,N,Y,CT,The Cobblestone Collection
+Pistols,P2000,Coach Class,Industrial Grade,N,N,CT,The Baggage Collection
+Pistols,P2000,Coral Halftone,Industrial Grade,N,N,Vox Eminor,The Graphic Design Collection
+Pistols,P2000,Corticera,Classified,Y,N,CT,The eSports 2014 Summer Collection
+Pistols,P2000,Dispatch,Mil-Spec Grade,N,N,CT,The Control Collection
+Pistols,P2000,Fire Elemental,Covert,Y,N,CT,The Vanguard Collection
+Pistols,P2000,Gnarled,Mil-Spec Grade,Y,N,CT,The Fracture Collection
+Pistols,P2000,Granite Marbleized,Industrial Grade,N,Y,CT,The Italy Collection
+Pistols,P2000,Grassland,Industrial Grade,N,Y,CT,The Overpass Collection
+Pistols,P2000,Grassland Leaves,Industrial Grade,N,N,CT,The Militia Collection
+Pistols,P2000,Handgun,Restricted,Y,N,CT,The Falchion Collection
+Pistols,P2000,Imperial,Mil-Spec Grade,Y,N,CT,The Revolver Case Collection
+Pistols,P2000,Imperial Dragon,Classified,Y,N,CT,The Gamma Collection
+Pistols,P2000,Ivory,Mil-Spec Grade,Y,N,CT,The Breakout Collection
+Pistols,P2000,Lifted Spirits,Mil-Spec Grade,Y,N,CT,The Dreams & Nightmares Collection
+Pistols,P2000,Marsh,Industrial Grade,N,N,Vox Eminor,The Boreal Collection
+Pistols,P2000,Obsidian,Restricted,Y,N,CT,The Shattered Web Collection
+Pistols,P2000,Ocean Foam,Classified,Y,N,CT,The Bravo Collection
+Pistols,P2000,Oceanic,Mil-Spec Grade,Y,N,CT,The Chroma 3 Collection
+Pistols,P2000,Panther Camo,Industrial Grade,N,Y,CT,The Ancient Collection
+Pistols,P2000,Pathfinder,Industrial Grade,N,N,CT,The Gods and Monsters Collection
+Pistols,P2000,Pulse,Mil-Spec Grade,Y,N,CT,The Huntsman Collection
+Pistols,P2000,Red FragCam,Mil-Spec Grade,Y,N,CT,The Arms Deal 3 Collection
+Pistols,P2000,Red Wing,Mil-Spec Grade,Y,N,Vox Eminor,The Genesis Collection
+Pistols,P2000,Royal Baroque,Mil-Spec Grade,N,N,CT,The Ascent Collection
+Pistols,P2000,Scorpion,Restricted,N,N,CT,The Dust Collection
+Pistols,P2000,Silver,Mil-Spec Grade,N,N,CT,The Office Collection
+Pistols,P2000,Space Race,Restricted,N,N,CT,The 2021 Train Collection
+Pistols,P2000,Sure Grip,Mil-Spec Grade,Y,N,CT,The Fever Collection
+Pistols,P2000,Turf,Mil-Spec Grade,Y,N,CT,The Glove Collection
+Pistols,P2000,Urban Hazard,Mil-Spec Grade,Y,N,CT,The Clutch Collection
+Pistols,P2000,Wicked Sick,Classified,Y,N,CT,The Revolution Collection
+Pistols,P2000,Woodsman,Restricted,Y,N,CT,The Operation Hydra Collection
+Pistols,P250,Apep's Curse,Classified,N,Y,Both,The Anubis Collection
+Pistols,P250,Asiimov,Classified,Y,N,Both,The Chroma 3 Collection
+Pistols,P250,Bengal Tiger,Mil-Spec Grade,N,N,Both,The Havoc Collection
+Pistols,P250,Black & Tan,Mil-Spec Grade,N,Y,Both,The 2021 Dust 2 Collection
+Pistols,P250,Bone Mask,Consumer Grade,N,Y,Both,The Mirage Collection
+Pistols,P250,Boreal Forest,Consumer Grade,N,Y,Both,The Lake Collection
+Pistols,P250,Bullfrog,Mil-Spec Grade,Y,N,Both,The Genesis Collection
+Pistols,P250,Cartel,Classified,Y,N,Both,The Vanguard Collection
+Pistols,P250,Cassette,Mil-Spec Grade,Y,N,Both,The Fracture Collection
+Pistols,P250,Constructivist,Industrial Grade,N,N,Both,The Train 2025 Collection
+Pistols,P250,Contaminant,Mil-Spec Grade,Y,N,Both,The Operation Broken Fang Collection
+Pistols,P250,Contamination,Industrial Grade,N,Y,Both,The Cache Collection
+Pistols,P250,Copper Oxide,Consumer Grade,N,N,Both,The Boreal Collection
+Pistols,P250,Crimson Kimono,Industrial Grade,N,N,Both,The Rising Sun Collection
+Pistols,P250,Cyber Shell,Restricted,Y,N,Both,The Snakebite Collection
+Pistols,P250,Dark Filigree,Industrial Grade,N,N,Both,The Canals Collection
+Pistols,P250,Digital Architect,Restricted,N,Y,Both,The 2021 Vertigo Collection
+Pistols,P250,Drought,Consumer Grade,N,Y,Both,The 2021 Mirage Collection
+Pistols,P250,Epicenter,Classified,Y,N,Both,The Gallery Collection
+Pistols,P250,Exchanger,Mil-Spec Grade,N,Y,Both,The 2018 Nuke Collection
+Pistols,P250,Facets,Industrial Grade,N,N,Both,The Alpha Collection
+Pistols,P250,Facility Draft,Consumer Grade,N,Y,Both,The 2018 Nuke Collection
+Pistols,P250,Forest Night,Consumer Grade,N,N,Both,The Control Collection
+Pistols,P250,Franklin,Classified,N,N,Both,The Bank Collection
+Pistols,P250,Gunsmoke,Industrial Grade,N,Y,Both,The Inferno Collection
+Pistols,P250,Hive,Mil-Spec Grade,Y,N,Both,The Arms Deal 2 Collection
+Pistols,P250,Inferno,Restricted,Y,N,Both,The CS20 Collection
+Pistols,P250,Iron Clad,Mil-Spec Grade,Y,N,Both,The Gamma Collection
+Pistols,P250,Mehndi,Classified,Y,N,Both,The Winter Offensive Collection
+Pistols,P250,Metallic DDPAT,Industrial Grade,N,Y,Both,The Train Collection
+Pistols,P250,Mint Kimono,Consumer Grade,N,N,Both,The Rising Sun Collection
+Pistols,P250,Modern Hunter,Mil-Spec Grade,N,N,Both,The Militia Collection
+Pistols,P250,Muertos,Classified,Y,N,Both,The Chroma Collection
+Pistols,P250,Nevermore,Restricted,Y,N,Both,The Danger Zone Collection
+Pistols,P250,Nuclear Threat,Restricted,N,Y,Both,The Nuke Collection
+Pistols,P250,Plum Netting,Consumer Grade,N,N,Both,The Ascent Collection
+Pistols,P250,Re.built,Mil-Spec Grade,Y,N,Both,The Revolution Collection
+Pistols,P250,Red Rock,Restricted,Y,N,Both,The Operation Hydra Collection
+Pistols,P250,Red Tide,Mil-Spec Grade,N,N,Both,The Radiant Collection
+Pistols,P250,Ripple,Mil-Spec Grade,Y,N,Both,The Spectrum Collection
+Pistols,P250,Sand Dune,Consumer Grade,N,Y,Both,The Dust 2 Collection
+Pistols,P250,Sedimentary,Industrial Grade,N,N,Both,The Radiant Collection
+Pistols,P250,See Ya Later,Covert,Y,N,Both,The Spectrum 2 Collection
+Pistols,P250,Small Game,Mil-Spec Grade,N,N,Both,The Sport & Field Collection
+Pistols,P250,Splash,Restricted,Y,N,Both,The eSports 2013 Collection
+Pistols,P250,Steel Disruption,Mil-Spec Grade,Y,N,Both,The eSports 2013 Winter Collection
+Pistols,P250,Supernova,Restricted,Y,N,Both,The Breakout Collection
+Pistols,P250,Undertow,Classified,Y,N,Both,The Arms Deal 3 Collection
+Pistols,P250,Valence,Mil-Spec Grade,Y,N,Both,The Chroma 2 Collection
+Pistols,P250,Verdigris,Mil-Spec Grade,Y,N,Both,The Prisma Collection
+Pistols,P250,Vino Primo,Restricted,N,Y,Both,The 2018 Inferno Collection
+Pistols,P250,Visions,Classified,Y,N,Both,The Recoil Collection
+Pistols,P250,Whiteout,Mil-Spec Grade,N,N,Both,The Chop Shop Collection
+Pistols,P250,Wingshot,Restricted,Y,N,Both,The Shadow Collection
+Pistols,P250,X-Ray,Restricted,N,N,Both,The X-Ray Collection
+SMGs,P90,Ancient Earth,Consumer Grade,N,Y,Both,The Ancient Collection
+SMGs,P90,Ash Wood,Industrial Grade,N,Y,Both,The Train Collection
+SMGs,P90,Asiimov,Covert,Y,N,Both,The Breakout Collection
+SMGs,P90,Astral Jörmungandr,Restricted,N,N,Both,The Norse Collection
+SMGs,P90,Attack Vector,Restricted,N,N,Both,The Graphic Design Collection
+SMGs,P90,Baroque Red,Mil-Spec Grade,N,N,Both,The Canals Collection
+SMGs,P90,Blind Spot,Restricted,Y,N,Both,The eSports 2013 Winter Collection
+SMGs,P90,Blue Tac,Consumer Grade,N,N,Both,The Ascent Collection
+SMGs,P90,Chopper,Restricted,Y,N,Both,The Gamma Collection
+SMGs,P90,Cocoa Rampage,Mil-Spec Grade,Y,N,Both,The Operation Broken Fang Collection
+SMGs,P90,Cold Blooded,Classified,Y,N,Both,The Arms Deal 2 Collection
+SMGs,P90,Death by Kitty,Covert,Y,N,Both,The eSports 2013 Collection
+SMGs,P90,Death Grip,Restricted,Y,N,Both,The Operation Hydra Collection
+SMGs,P90,Desert DDPAT,Consumer Grade,N,Y,Both,The 2021 Dust 2 Collection
+SMGs,P90,Desert Halftone,Consumer Grade,N,N,Both,The Radiant Collection
+SMGs,P90,Desert Warfare,Mil-Spec Grade,Y,N,Both,The Huntsman Collection
+SMGs,P90,Elite Build,Mil-Spec Grade,Y,N,Both,The Falchion Collection
+SMGs,P90,Emerald Dragon,Classified,Y,N,Both,The Bravo Collection
+SMGs,P90,Facility Negative,Mil-Spec Grade,N,Y,Both,The 2018 Nuke Collection
+SMGs,P90,Fallout Warning,Industrial Grade,N,Y,Both,The Nuke Collection
+SMGs,P90,Freight,Mil-Spec Grade,Y,N,Both,The Fracture Collection
+SMGs,P90,Glacier Mesh,Mil-Spec Grade,N,Y,Both,The Vertigo Collection
+SMGs,P90,Grim,Mil-Spec Grade,Y,N,Both,The Gamma 2 Collection
+SMGs,P90,Leather,Industrial Grade,N,N,Both,The Baggage Collection
+SMGs,P90,Module,Mil-Spec Grade,Y,N,Both,The Huntsman Collection
+SMGs,P90,Mustard Gas,Industrial Grade,N,N,Both,The Boreal Collection
+SMGs,P90,Neoqueen,Restricted,Y,N,Both,The Revolution Collection
+SMGs,P90,Nostalgia,Classified,Y,N,Both,The CS20 Collection
+SMGs,P90,Off World,Mil-Spec Grade,Y,N,Both,The Prisma Collection
+SMGs,P90,Randy Rush,Restricted,Y,N,Both,The Gallery Collection
+SMGs,P90,Reef Grief,Mil-Spec Grade,N,N,Both,The Ascent Collection
+SMGs,P90,Run and Hide,Classified,N,Y,Both,The Ancient Collection
+SMGs,P90,Sand Spray,Consumer Grade,N,Y,Both,The Dust 2 Collection
+SMGs,P90,ScaraB Rush,Restricted,N,Y,Both,The Anubis Collection
+SMGs,P90,Schematic,Mil-Spec Grade,N,Y,Both,The 2021 Vertigo Collection
+SMGs,P90,Scorched,Consumer Grade,N,Y,Both,The Mirage Collection
+SMGs,P90,Shallow Grave,Classified,Y,N,Both,The Glove Collection
+SMGs,P90,Shapewood,Classified,Y,N,Both,The Revolver Case Collection
+SMGs,P90,Storm,Consumer Grade,N,Y,Both,The Cobblestone Collection
+SMGs,P90,Straight Dimes,Industrial Grade,N,N,Both,The Train 2025 Collection
+SMGs,P90,Sunset Lily,Industrial Grade,N,N,Both,The St. Marc Collection
+SMGs,P90,Teardown,Mil-Spec Grade,N,Y,Both,The Lake Collection
+SMGs,P90,Tiger Pit,Mil-Spec Grade,N,N,Both,The Havoc Collection
+SMGs,P90,Traction,Mil-Spec Grade,Y,N,Both,The Horizon Collection
+SMGs,P90,Trigon,Classified,Y,N,Both,The Phoenix Collection
+SMGs,P90,Vent Rush,Restricted,Y,N,Both,The Recoil Collection
+SMGs,P90,Verdant Growth,Industrial Grade,N,Y,Both,The 2021 Mirage Collection
+SMGs,P90,Virus,Restricted,Y,N,Both,The eSports 2014 Summer Collection
+SMGs,P90,Wash me,Industrial Grade,N,N,Both,The Overpass 2024 Collection
+SMGs,P90,Wave Breaker,Restricted,Y,N,Both,The Fever Collection
+SMGs,PP-Bizon,Anolis,Consumer Grade,N,Y,Both,The 2021 Mirage Collection
+SMGs,PP-Bizon,Antique,Restricted,Y,N,Both,The Huntsman Collection
+SMGs,PP-Bizon,Bamboo Print,Consumer Grade,N,N,Both,The Rising Sun Collection
+SMGs,PP-Bizon,Blue Streak,Restricted,Y,N,Both,The eSports 2014 Summer Collection
+SMGs,PP-Bizon,Brass,Mil-Spec Grade,N,Y,Both,The Dust 2 Collection
+SMGs,PP-Bizon,Breaker Box,Industrial Grade,N,Y,Both,The 2021 Vertigo Collection
+SMGs,PP-Bizon,Candy Apple,Industrial Grade,N,Y,Both,The 2018 Inferno Collection
+SMGs,PP-Bizon,Carbon Fiber,Industrial Grade,N,Y,Both,The Vertigo Collection
+SMGs,PP-Bizon,Chemical Green,Industrial Grade,N,Y,Both,The Cache Collection
+SMGs,PP-Bizon,Cobalt Halftone,Mil-Spec Grade,Y,N,Both,The Winter Offensive Collection
+SMGs,PP-Bizon,Cold Cell,Industrial Grade,N,N,26,The Sport & Field Collection
+SMGs,PP-Bizon,Death Rattle,Consumer Grade,N,N,Both,The Havoc Collection
+SMGs,PP-Bizon,Embargo,Restricted,Y,N,Both,The Shattered Web Collection
+SMGs,PP-Bizon,Facility Sketch,Consumer Grade,N,Y,Both,The 2018 Nuke Collection
+SMGs,PP-Bizon,Forest Leaves,Consumer Grade,N,N,Both,The Militia Collection
+SMGs,PP-Bizon,Fuel Rod,Restricted,Y,N,Both,The Revolver Case Collection
+SMGs,PP-Bizon,Harvester,Mil-Spec Grade,Y,N,Both,The Gamma Collection
+SMGs,PP-Bizon,High Roller,Classified,Y,N,Both,The Spectrum 2 Collection
+SMGs,PP-Bizon,Irradiated Alert,Consumer Grade,N,Y,Both,The Nuke Collection
+SMGs,PP-Bizon,Judgement of Anubis,Covert,Y,N,Both,The Chroma 3 Collection
+SMGs,PP-Bizon,Jungle Slipstream,Mil-Spec Grade,Y,N,Both,The Spectrum Collection
+SMGs,PP-Bizon,Lumen,Mil-Spec Grade,Y,N,Both,The Operation Riptide Collection
+SMGs,PP-Bizon,Modern Hunter,Mil-Spec Grade,N,N,Both,The Militia Collection
+SMGs,PP-Bizon,Night Ops,Industrial Grade,N,Y,Both,The Lake Collection
+SMGs,PP-Bizon,Night Riot,Mil-Spec Grade,Y,N,Both,The Clutch Collection
+SMGs,PP-Bizon,Osiris,Restricted,Y,N,Both,The Breakout Collection
+SMGs,PP-Bizon,Photic Zone,Mil-Spec Grade,Y,N,Both,The Wildfire Collection
+SMGs,PP-Bizon,Runic,Mil-Spec Grade,Y,N,Both,The Fracture Collection
+SMGs,PP-Bizon,Rust Coat,Mil-Spec Grade,N,N,Both,The Alpha Collection
+SMGs,PP-Bizon,Sand Dashed,Consumer Grade,N,Y,Both,The Italy Collection
+SMGs,PP-Bizon,Seabird,Consumer Grade,N,N,Both,The St. Marc Collection
+SMGs,PP-Bizon,Space Cat,Restricted,Y,N,Both,The Dreams & Nightmares Collection
+SMGs,PP-Bizon,Urban Dashed,Consumer Grade,N,Y,Both,The Train Collection
+SMGs,PP-Bizon,Water Sigil,Mil-Spec Grade,Y,N,Both,The eSports 2013 Winter Collection
+SMGs,PP-Bizon,Wood Block Camo,Consumer Grade,N,N,26,The Radiant Collection
+Pistols,R8 Revolver,Amber Fade,Classified,N,Y,Both,The Dust 2 Collection
+Pistols,R8 Revolver,Banana Cannon,Restricted,Y,N,Both,The Revolution Collection
+Pistols,R8 Revolver,Blaze,Mil-Spec Grade,N,N,Both,The 2021 Train Collection
+Pistols,R8 Revolver,Bone Forged,Mil-Spec Grade,Y,N,Both,The Prisma 2 Collection
+Pistols,R8 Revolver,Bone Mask,Consumer Grade,N,Y,Both,The Bank Collection
+Pistols,R8 Revolver,Canal Spray,Consumer Grade,N,N,Both,The Canals Collection
+Pistols,R8 Revolver,Cobalt Grip,Consumer Grade,N,N,Both,The Ascent Collection
+Pistols,R8 Revolver,Crazy 8,Restricted,Y,N,Both,The Recoil Collection
+Pistols,R8 Revolver,Crimson Web,Mil-Spec Grade,Y,N,Both,The Revolver Case Collection
+Pistols,R8 Revolver,Desert Brush,Consumer Grade,N,Y,Both,The 2021 Dust 2 Collection
+Pistols,R8 Revolver,Fade,Covert,Y,N,Both,The Revolver Case Collection
+Pistols,R8 Revolver,Grip,Mil-Spec Grade,Y,N,Both,The Clutch Collection
+Pistols,R8 Revolver,Inlay,Consumer Grade,N,Y,Both,The Anubis Collection
+Pistols,R8 Revolver,Junk Yard,Mil-Spec Grade,Y,N,Both,The Snakebite Collection
+Pistols,R8 Revolver,Leafhopper,Industrial Grade,N,N,Both,The Boreal Collection
+Pistols,R8 Revolver,Llama Cannon,Classified,Y,N,Both,The Spectrum 2 Collection
+Pistols,R8 Revolver,Memento,Mil-Spec Grade,Y,N,Both,The Shattered Web Collection
+Pistols,R8 Revolver,Night,Consumer Grade,N,Y,Both,The Ancient Collection
+Pistols,R8 Revolver,Nitro,Industrial Grade,N,Y,Both,The 2018 Inferno Collection
+Pistols,R8 Revolver,Phoenix Marker,Industrial Grade,N,N,Both,The Havoc Collection
+Pistols,R8 Revolver,Reboot,Restricted,Y,N,Both,The Gamma Collection
+Pistols,R8 Revolver,Skull Crusher,Classified,Y,N,Both,The Prisma Collection
+Pistols,R8 Revolver,Survivalist,Mil-Spec Grade,Y,N,Both,The Horizon Collection
+Pistols,R8 Revolver,Tango,Mil-Spec Grade,Y,N,Both,The Gallery Collection
+Heavy,Sawed-Off,Amber Fade,Mil-Spec Grade,N,Y,T,The Train Collection
+Heavy,Sawed-Off,Analog Input,Restricted,Y,N,T,The Kilowatt Collection
+Heavy,Sawed-Off,Apocalypto,Restricted,Y,N,T,The Prisma 2 Collection
+Heavy,Sawed-Off,Bamboo Shadow,Consumer Grade,N,N,T,The Rising Sun Collection
+Heavy,Sawed-Off,Black Sand,Mil-Spec Grade,Y,N,T,The Danger Zone Collection
+Heavy,Sawed-Off,Brake Light,Mil-Spec Grade,N,Y,T,The 2018 Inferno Collection
+Heavy,Sawed-Off,Clay Ambush,Consumer Grade,N,N,T,The Havoc Collection
+Heavy,Sawed-Off,Copper,Mil-Spec Grade,N,N,T,The Dust Collection
+Heavy,Sawed-Off,Devourer,Classified,Y,N,T,The Horizon Collection
+Heavy,Sawed-Off,First Class,Mil-Spec Grade,N,N,T,The Baggage Collection
+Heavy,Sawed-Off,Forest DDPAT,Consumer Grade,N,N,T,The Bank Collection
+Heavy,Sawed-Off,Fubar,Mil-Spec Grade,Y,N,T,The Chroma 3 Collection
+Heavy,Sawed-Off,Full Stop,Mil-Spec Grade,N,Y,T,The Italy Collection
+Heavy,Sawed-Off,Highwayman,Restricted,Y,N,T,The Vanguard Collection
+Heavy,Sawed-Off,Irradiated Alert,Consumer Grade,N,Y,T,The Nuke Collection
+Heavy,Sawed-Off,Jungle Thicket,Consumer Grade,N,N,T,The St. Marc Collection
+Heavy,Sawed-Off,Kiss♥Love,Classified,Y,N,T,The Recoil Collection
+Heavy,Sawed-Off,Limelight,Restricted,Y,N,T,The Gamma Collection
+Heavy,Sawed-Off,Morris,Mil-Spec Grade,Y,N,T,The Spectrum 2 Collection
+Heavy,Sawed-Off,Mosaico,Industrial Grade,N,N,T,The Alpha Collection
+Heavy,Sawed-Off,Orange DDPAT,Restricted,Y,N,T,The eSports 2013 Collection
+Heavy,Sawed-Off,Origami,Mil-Spec Grade,Y,N,T,The Chroma 2 Collection
+Heavy,Sawed-Off,Parched,Consumer Grade,N,Y,T,The 2021 Dust 2 Collection
+Heavy,Sawed-Off,Runoff,Consumer Grade,N,N,T,The Ascent Collection
+Heavy,Sawed-Off,Rust Coat,Industrial Grade,N,Y,T,The Cobblestone Collection
+Heavy,Sawed-Off,Sage Spray,Consumer Grade,N,Y,T,The Overpass Collection
+Heavy,Sawed-Off,Serenity,Restricted,Y,N,T,The Chroma Collection
+Heavy,Sawed-Off,Snake Camo,Industrial Grade,N,Y,T,The Dust 2 Collection
+Heavy,Sawed-Off,Spirit Board,Mil-Spec Grade,Y,N,T,The Dreams & Nightmares Collection
+Heavy,Sawed-Off,The Kraken,Covert,Y,N,T,The Winter Offensive Collection
+Heavy,Sawed-Off,Wasteland Princess,Classified,Y,N,T,The Glove Collection
+Heavy,Sawed-Off,Yorick,Mil-Spec Grade,Y,N,T,The Revolver Case Collection
+Heavy,Sawed-Off,Zander,Mil-Spec Grade,Y,N,T,The Spectrum Collection
+Rifles,SCAR-20,Army Sheen,Consumer Grade,N,N,CT,The Chop Shop Collection
+Rifles,SCAR-20,Assault,Mil-Spec Grade,Y,N,CT,The CS20 Collection
+Rifles,SCAR-20,Bloodsport,Classified,Y,N,CT,The Gamma Collection
+Rifles,SCAR-20,Blueprint,Mil-Spec Grade,Y,N,CT,The Spectrum Collection
+Rifles,SCAR-20,Brass,Mil-Spec Grade,N,N,CT,The Norse Collection
+Rifles,SCAR-20,Caged,Mil-Spec Grade,Y,N,CT,The Genesis Collection
+Rifles,SCAR-20,Carbon Fiber,Industrial Grade,N,Y,CT,The Train Collection
+Rifles,SCAR-20,Cardiac,Classified,Y,N,CT,The Vanguard Collection
+Rifles,SCAR-20,Contractor,Consumer Grade,N,Y,CT,The Safehouse Collection
+Rifles,SCAR-20,Crimson Web,Mil-Spec Grade,Y,N,CT,The Arms Deal 2 Collection
+Rifles,SCAR-20,Cyrex,Classified,Y,N,CT,The Huntsman Collection
+Rifles,SCAR-20,Emerald,Restricted,N,N,CT,The Alpha Collection
+Rifles,SCAR-20,Enforcer,Restricted,Y,N,CT,The Prisma 2 Collection
+Rifles,SCAR-20,Fragments,Mil-Spec Grade,Y,N,CT,The Revolution Collection
+Rifles,SCAR-20,Green Marine,Mil-Spec Grade,Y,N,CT,The Shadow Collection
+Rifles,SCAR-20,Grotto,Mil-Spec Grade,Y,N,CT,The Chroma Collection
+Rifles,SCAR-20,Jungle Slipstream,Mil-Spec Grade,Y,N,CT,The Spectrum 2 Collection
+Rifles,SCAR-20,Magna Carta,Mil-Spec Grade,N,N,CT,The Control Collection
+Rifles,SCAR-20,Outbreak,Mil-Spec Grade,Y,N,CT,The Revolver Case Collection
+Rifles,SCAR-20,Palm,Industrial Grade,N,N,CT,The Dust Collection
+Rifles,SCAR-20,Poultrygeist,Mil-Spec Grade,Y,N,CT,The Dreams & Nightmares Collection
+Rifles,SCAR-20,Powercore,Restricted,Y,N,CT,The Gamma 2 Collection
+Rifles,SCAR-20,Sand Mesh,Consumer Grade,N,Y,CT,The Dust 2 Collection
+Rifles,SCAR-20,Short Ochre,Consumer Grade,N,N,CT,The Radiant Collection
+Rifles,SCAR-20,Splash Jam,Classified,N,N,CT,The Militia Collection
+Rifles,SCAR-20,Stone Mosaico,Consumer Grade,N,N,CT,The Canals Collection
+Rifles,SCAR-20,Storm,Consumer Grade,N,Y,CT,The Cobblestone Collection
+Rifles,SCAR-20,Torn,Mil-Spec Grade,Y,N,CT,The Shattered Web Collection
+Rifles,SCAR-20,Trail Blazer,Mil-Spec Grade,Y,N,CT,The Gallery Collection
+Rifles,SCAR-20,Wild Berry,Mil-Spec Grade,N,N,CT,The Graphic Design Collection
+Rifles,SG 553,Aerial,Mil-Spec Grade,Y,N,T,The Gamma Collection
+Rifles,SG 553,Aloha,Mil-Spec Grade,Y,N,T,The Clutch Collection
+Rifles,SG 553,Anodized Navy,Mil-Spec Grade,N,Y,T,The Lake Collection
+Rifles,SG 553,Army Sheen,Consumer Grade,N,N,T,The Bank Collection
+Rifles,SG 553,Atlas,Mil-Spec Grade,Y,N,T,The Chroma 3 Collection
+Rifles,SG 553,Barricade,Consumer Grade,N,N,T,The Norse Collection
+Rifles,SG 553,Basket Halftone,Industrial Grade,N,N,T,The Radiant Collection
+Rifles,SG 553,Berry Gel Coat,Mil-Spec Grade,N,N,T,The Graphic Design Collection
+Rifles,SG 553,Bleached,Consumer Grade,N,Y,T,The 2021 Dust 2 Collection
+Rifles,SG 553,Bulldozer,Restricted,N,N,T,The Chop Shop Collection
+Rifles,SG 553,Candy Apple,Industrial Grade,N,N,T,The Canals Collection
+Rifles,SG 553,Colony IV,Classified,Y,N,T,The Shattered Web Collection
+Rifles,SG 553,Cyberforce,Mil-Spec Grade,Y,N,T,The Revolution Collection
+Rifles,SG 553,Cyrex,Classified,Y,N,T,The Falchion Collection
+Rifles,SG 553,Damascus Steel,Mil-Spec Grade,N,Y,T,The Dust 2 Collection
+Rifles,SG 553,Danger Close,Mil-Spec Grade,Y,N,T,The Danger Zone Collection
+Rifles,SG 553,Darkwing,Restricted,Y,N,T,The Prisma 2 Collection
+Rifles,SG 553,Desert Blossom,Mil-Spec Grade,N,Y,T,The 2021 Mirage Collection
+Rifles,SG 553,Dragon Tech,Restricted,Y,N,T,The Recoil Collection
+Rifles,SG 553,Fallout Warning,Industrial Grade,N,Y,T,The Cache Collection
+Rifles,SG 553,Gator Mesh,Industrial Grade,N,Y,T,The Mirage Collection
+Rifles,SG 553,Hazard Pay,Classified,N,Y,T,The 2021 Vertigo Collection
+Rifles,SG 553,Heavy Metal,Mil-Spec Grade,Y,N,T,The Snakebite Collection
+Rifles,SG 553,Hypnotic,Restricted,N,N,T,The Havoc Collection
+Rifles,SG 553,Integrale,Classified,N,Y,T,The 2018 Inferno Collection
+Rifles,SG 553,Lush Ruins,Consumer Grade,N,Y,T,The Ancient Collection
+Rifles,SG 553,Night Camo,Consumer Grade,N,N,T,The Ascent Collection
+Rifles,SG 553,Ol' Rusty,Mil-Spec Grade,Y,N,T,The Fracture Collection
+Rifles,SG 553,Phantom,Restricted,Y,N,T,The Spectrum 2 Collection
+Rifles,SG 553,Pulse,Restricted,Y,N,T,The Phoenix Collection
+Rifles,SG 553,Tiger Moth,Restricted,Y,N,T,The Revolver Case Collection
+Rifles,SG 553,Tornado,Consumer Grade,N,N,T,The Assault Collection
+Rifles,SG 553,Traveler,Industrial Grade,N,N,T,The Baggage Collection
+Rifles,SG 553,Triarch,Restricted,Y,N,T,The Gamma 2 Collection
+Rifles,SG 553,Ultraviolet,Mil-Spec Grade,Y,N,T,The Arms Deal Collection
+Rifles,SG 553,Wave Spray,Mil-Spec Grade,Y,N,T,The Bravo Collection
+Rifles,SG 553,Waves Perforated,Consumer Grade,N,Y,T,The Lake Collection
+Rifles,SSG 08,Abyss,Mil-Spec Grade,Y,N,Both,The Breakout Collection
+Rifles,SSG 08,Acid Fade,Mil-Spec Grade,N,Y,Both,The Safehouse Collection
+Rifles,SSG 08,Azure Glyph,Industrial Grade,N,Y,Both,The Anubis Collection
+Rifles,SSG 08,Big Iron,Classified,Y,N,Both,The Shadow Collection
+Rifles,SSG 08,Blood in the Water,Covert,Y,N,Both,The Arms Deal 2 Collection
+Rifles,SSG 08,Bloodshot,Classified,Y,N,Both,The Shattered Web Collection
+Rifles,SSG 08,Blue Spruce,Consumer Grade,N,Y,Both,The Safehouse Collection
+Rifles,SSG 08,Blush Pour,Mil-Spec Grade,N,N,Both,The Radiant Collection
+Rifles,SSG 08,Carbon Fiber,Industrial Grade,N,Y,Both,The 2021 Vertigo Collection
+Rifles,SSG 08,Dark Water,Mil-Spec Grade,Y,N,Both,The eSports 2014 Summer Collection
+Rifles,SSG 08,Death Strike,Classified,N,Y,Both,The 2021 Dust 2 Collection
+Rifles,SSG 08,Death's Head,Restricted,Y,N,Both,The Operation Hydra Collection
+Rifles,SSG 08,Detour,Mil-Spec Grade,N,Y,Both,The Overpass Collection
+Rifles,SSG 08,Dezastre,Mil-Spec Grade,Y,N,Both,The Kilowatt Collection
+Rifles,SSG 08,Dragonfire,Covert,Y,N,Both,The Glove Collection
+Rifles,SSG 08,Fever Dream,Restricted,Y,N,Both,The Prisma 2 Collection
+Rifles,SSG 08,Ghost Crusader,Restricted,Y,N,Both,The Chroma 3 Collection
+Rifles,SSG 08,Green Ceramic,Consumer Grade,N,N,Both,The Boreal Collection
+Rifles,SSG 08,Grey Smoke,Consumer Grade,N,N,Both,The Ascent Collection
+Rifles,SSG 08,Halftone Whorl,Industrial Grade,N,N,Both,The Graphic Design Collection
+Rifles,SSG 08,Hand Brake,Mil-Spec Grade,N,Y,Both,The 2018 Inferno Collection
+Rifles,SSG 08,Jungle Dashed,Consumer Grade,N,Y,Both,The Ancient Collection
+Rifles,SSG 08,Lichen Dashed,Consumer Grade,N,N,Both,The Aztec Collection
+Rifles,SSG 08,Mainframe 001,Mil-Spec Grade,Y,N,Both,The Fracture Collection
+Rifles,SSG 08,Mayan Dreams,Industrial Grade,N,N,Both,The Alpha Collection
+Rifles,SSG 08,Memorial,Mil-Spec Grade,Y,N,Both,The Fever Collection
+Rifles,SSG 08,Necropos,Mil-Spec Grade,Y,N,Both,The Wildfire Collection
+Rifles,SSG 08,Orange Filigree,Mil-Spec Grade,N,N,Both,The Canals Collection
+Rifles,SSG 08,Parallax,Restricted,Y,N,Both,The Operation Broken Fang Collection
+Rifles,SSG 08,Prey,Consumer Grade,N,Y,Both,The 2021 Mirage Collection
+Rifles,SSG 08,Rapid Transit,Restricted,Y,N,Both,The Gallery Collection
+Rifles,SSG 08,Red Stone,Consumer Grade,N,N,Both,The Norse Collection
+Rifles,SSG 08,Sand Dune,Consumer Grade,N,N,Both,The Baggage Collection
+Rifles,SSG 08,Sea Calico,Restricted,N,N,Both,The St. Marc Collection
+Rifles,SSG 08,Slashed,Mil-Spec Grade,Y,N,Both,The Huntsman Collection
+Rifles,SSG 08,Spring Twilly,Mil-Spec Grade,N,N,Both,The 2021 Train Collection
+Rifles,SSG 08,Threat Detected,Mil-Spec Grade,N,N,Both,The Control Collection
+Rifles,SSG 08,Tiger Tear,Industrial Grade,N,N,Both,The Boreal Collection
+Rifles,SSG 08,Tropical Storm,Industrial Grade,N,Y,Both,The Mirage Collection
+Rifles,SSG 08,Turbo Peek,Classified,Y,N,Both,The Operation Riptide Collection
+Rifles,SSG 08,Zeno,Mil-Spec Grade,N,N,Both,The Sport & Field Collection
+Pistols,Tec-9,Army Mesh,Consumer Grade,N,Y,T,The Safehouse Collection
+Pistols,Tec-9,Avalanche,Restricted,Y,N,T,The Revolver Case Collection
+Pistols,Tec-9,Bamboo Forest,Consumer Grade,N,N,T,The Rising Sun Collection
+Pistols,Tec-9,Bamboozle,Restricted,Y,N,T,The Prisma Collection
+Pistols,Tec-9,Blast From the Past,Mil-Spec Grade,N,Y,T,The Ancient Collection
+Pistols,Tec-9,Blue Blast,Consumer Grade,N,N,T,The Ascent Collection
+Pistols,Tec-9,Blue Titanium,Mil-Spec Grade,Y,N,T,The Arms Deal 2 Collection
+Pistols,Tec-9,Brass,Mil-Spec Grade,N,Y,T,The Inferno Collection
+Pistols,Tec-9,Brother,Restricted,Y,N,T,The Fracture Collection
+Pistols,Tec-9,Citric Acid,Industrial Grade,N,N,T,The Radiant Collection
+Pistols,Tec-9,Cracked Opal,Mil-Spec Grade,Y,N,T,The Spectrum 2 Collection
+Pistols,Tec-9,Cut Out,Mil-Spec Grade,Y,N,T,The Operation Hydra Collection
+Pistols,Tec-9,Decimator,Classified,Y,N,T,The Shattered Web Collection
+Pistols,Tec-9,Flash Out,Mil-Spec Grade,Y,N,T,The CS20 Collection
+Pistols,Tec-9,Fubar,Mil-Spec Grade,Y,N,T,The Danger Zone Collection
+Pistols,Tec-9,Fuel Injector,Classified,Y,N,T,The Gamma 2 Collection
+Pistols,Tec-9,Garter-9,Industrial Grade,N,N,T,The Boreal Collection
+Pistols,Tec-9,Groundwater,Consumer Grade,N,Y,T,The Italy Collection
+Pistols,Tec-9,Hades,Industrial Grade,N,N,T,The Gods and Monsters Collection
+Pistols,Tec-9,Ice Cap,Mil-Spec Grade,Y,N,T,The Gamma Collection
+Pistols,Tec-9,Isaac,Mil-Spec Grade,Y,N,T,The Huntsman Collection
+Pistols,Tec-9,Jambiya,Mil-Spec Grade,Y,N,T,The Wildfire Collection
+Pistols,Tec-9,Mummy's Rot,Mil-Spec Grade,N,Y,T,The Anubis Collection
+Pistols,Tec-9,Nuclear Threat,Restricted,N,Y,T,The Nuke Collection
+Pistols,Tec-9,Orange Murano,Industrial Grade,N,N,T,The Canals Collection
+Pistols,Tec-9,Ossified,Mil-Spec Grade,N,N,T,The Aztec Collection
+Pistols,Tec-9,Phoenix Chalk,Consumer Grade,N,N,T,The Havoc Collection
+Pistols,Tec-9,Raw Ceramic,Consumer Grade,N,N,T,The Boreal Collection
+Pistols,Tec-9,Re-Entry,Restricted,Y,N,T,The Chroma 3 Collection
+Pistols,Tec-9,Rebel,Mil-Spec Grade,Y,N,T,The Revolution Collection
+Pistols,Tec-9,Red Quartz,Restricted,N,Y,T,The Train Collection
+Pistols,Tec-9,Remote Control,Classified,N,Y,T,The 2018 Nuke Collection
+Pistols,Tec-9,Rust Leaf,Industrial Grade,N,N,T,The St. Marc Collection
+Pistols,Tec-9,Safety Net,Mil-Spec Grade,N,N,T,The 2021 Train Collection
+Pistols,Tec-9,Sandstorm,Mil-Spec Grade,Y,N,T,The Phoenix Collection
+Pistols,Tec-9,Slag,Mil-Spec Grade,Y,N,T,The Kilowatt Collection
+Pistols,Tec-9,Snek-9,Mil-Spec Grade,Y,N,T,The Horizon Collection
+Pistols,Tec-9,Terrace,Mil-Spec Grade,N,N,T,The Rising Sun Collection
+Pistols,Tec-9,Tiger Stencil,Industrial Grade,N,N,T,The Sport & Field Collection
+Pistols,Tec-9,Titanium Bit,Restricted,Y,N,T,The Arms Deal 3 Collection
+Pistols,Tec-9,Tornado,Consumer Grade,N,N,T,The Alpha Collection
+Pistols,Tec-9,Toxic,Mil-Spec Grade,N,Y,T,The Cache Collection
+Pistols,Tec-9,Urban DDPAT,Consumer Grade,N,N,T,The Bank Collection
+Pistols,Tec-9,VariCamo,Industrial Grade,N,Y,T,The Dust 2 Collection
+Pistols,Tec-9,Whiteout,Restricted,N,N,T,The Train 2025 Collection
+SMGs,UMP-45,Arctic Wolf,Restricted,Y,N,Both,The Clutch Collection
+SMGs,UMP-45,Blaze,Mil-Spec Grade,N,Y,Both,The Mirage Collection
+SMGs,UMP-45,Bone Pile,Mil-Spec Grade,Y,N,Both,The Bravo Collection
+SMGs,UMP-45,Briefing,Mil-Spec Grade,Y,N,Both,The Gamma 2 Collection
+SMGs,UMP-45,Caramel,Consumer Grade,N,N,Both,The Assault Collection
+SMGs,UMP-45,Carbon Fiber,Industrial Grade,N,N,Both,The Bank Collection
+SMGs,UMP-45,Continuum,Restricted,Y,N,Both,The Genesis Collection
+SMGs,UMP-45,Corporal,Mil-Spec Grade,Y,N,Both,The Phoenix Collection
+SMGs,UMP-45,Crime Scene,Restricted,N,N,Both,The Control Collection
+SMGs,UMP-45,Crimson Foil,Restricted,N,N,Both,The Sport & Field Collection
+SMGs,UMP-45,Day Lily,Mil-Spec Grade,N,N,Both,The St. Marc Collection
+SMGs,UMP-45,Delusion,Mil-Spec Grade,Y,N,Both,The Vanguard Collection
+SMGs,UMP-45,Exposure,Restricted,Y,N,Both,The Spectrum 2 Collection
+SMGs,UMP-45,Facility Dark,Consumer Grade,N,Y,Both,The 2018 Nuke Collection
+SMGs,UMP-45,Fade,Classified,N,Y,Both,The 2021 Dust 2 Collection
+SMGs,UMP-45,Fallout Warning,Industrial Grade,N,Y,Both,The Nuke Collection
+SMGs,UMP-45,Full Stop,Mil-Spec Grade,N,N,Both,The 2021 Train Collection
+SMGs,UMP-45,Gold Bismuth,Restricted,Y,N,Both,The Operation Broken Fang Collection
+SMGs,UMP-45,Grand Prix,Restricted,Y,N,Both,The Chroma 2 Collection
+SMGs,UMP-45,Green Swirl,Consumer Grade,N,N,Both,The Boreal Collection
+SMGs,UMP-45,Gunsmoke,Industrial Grade,N,Y,Both,The Italy Collection
+SMGs,UMP-45,Houndstooth,Industrial Grade,N,N,Both,The Havoc Collection
+SMGs,UMP-45,Indigo,Consumer Grade,N,Y,Both,The Cobblestone Collection
+SMGs,UMP-45,K.O. Factory,Classified,Y,N,Both,The Fever Collection
+SMGs,UMP-45,Labyrinth,Mil-Spec Grade,Y,N,Both,The Breakout Collection
+SMGs,UMP-45,Late Night Transit,Mil-Spec Grade,N,N,Both,The Train 2025 Collection
+SMGs,UMP-45,Mechanism,Industrial Grade,N,Y,Both,The 2021 Vertigo Collection
+SMGs,UMP-45,Metal Flowers,Mil-Spec Grade,Y,N,Both,The Operation Hydra Collection
+SMGs,UMP-45,Minotaur's Labyrinth,Mil-Spec Grade,N,N,Both,The Gods and Monsters Collection
+SMGs,UMP-45,Momentum,Classified,Y,N,Both,The Danger Zone Collection
+SMGs,UMP-45,Moonrise,Restricted,Y,N,Both,The Prisma Collection
+SMGs,UMP-45,Motorized,Mil-Spec Grade,Y,N,Both,The Kilowatt Collection
+SMGs,UMP-45,Mudder,Consumer Grade,N,Y,Both,The 2018 Inferno Collection
+SMGs,UMP-45,Neo-Noir,Classified,Y,N,Both,The Gallery Collection
+SMGs,UMP-45,Oscillator,Mil-Spec Grade,Y,N,Both,The Snakebite Collection
+SMGs,UMP-45,Plastique,Restricted,Y,N,Both,The CS20 Collection
+SMGs,UMP-45,Primal Saber,Classified,Y,N,Both,The Chroma 3 Collection
+SMGs,UMP-45,Riot,Mil-Spec Grade,Y,N,Both,The Falchion Collection
+SMGs,UMP-45,Roadblock,Mil-Spec Grade,Y,N,Both,The Recoil Collection
+SMGs,UMP-45,Scaffold,Restricted,Y,N,Both,The Spectrum Collection
+SMGs,UMP-45,Scorched,Consumer Grade,N,Y,Both,The Overpass Collection
+SMGs,UMP-45,Urban DDPAT,Consumer Grade,N,Y,Both,The Train Collection
+SMGs,UMP-45,Wild Child,Classified,Y,N,Both,The Revolution Collection
+Pistols,USP-S,27,Mil-Spec Grade,Y,N,CT,The Gallery Collection
+Pistols,USP-S,Alpine Camo,Mil-Spec Grade,N,N,CT,The Sport & Field Collection
+Pistols,USP-S,Ancient Visions,Restricted,N,Y,CT,The Ancient Collection
+Pistols,USP-S,Black Lotus,Mil-Spec Grade,Y,N,CT,The Operation Riptide Collection
+Pistols,USP-S,Bleeding Edge,Restricted,N,N,CT,The Radiant Collection
+Pistols,USP-S,Blood Tiger,Mil-Spec Grade,Y,N,CT,The eSports 2014 Summer Collection
+Pistols,USP-S,Blueprint,Mil-Spec Grade,Y,N,CT,The Operation Hydra Collection
+Pistols,USP-S,Business Class,Mil-Spec Grade,N,N,CT,The Baggage Collection
+Pistols,USP-S,Caiman,Classified,Y,N,CT,The Huntsman Collection
+Pistols,USP-S,Check Engine,Mil-Spec Grade,N,Y,CT,The 2018 Inferno Collection
+Pistols,USP-S,Cortex,Classified,Y,N,CT,The Clutch Collection
+Pistols,USP-S,Cyrex,Restricted,Y,N,CT,The Glove Collection
+Pistols,USP-S,Dark Water,Restricted,Y,N,CT,The Arms Deal Collection
+Pistols,USP-S,Desert Tactical,Industrial Grade,N,Y,CT,The Anubis Collection
+Pistols,USP-S,Flashback,Restricted,Y,N,CT,The Danger Zone Collection
+Pistols,USP-S,Forest Leaves,Industrial Grade,N,Y,CT,The Safehouse Collection
+Pistols,USP-S,Guardian,Restricted,Y,N,CT,The Phoenix Collection
+Pistols,USP-S,Jawbreaker,Classified,Y,N,CT,The Kilowatt Collection
+Pistols,USP-S,Kill Confirmed,Covert,Y,N,CT,The Shadow Collection
+Pistols,USP-S,Lead Conduit,Mil-Spec Grade,Y,N,CT,The Wildfire Collection
+Pistols,USP-S,Monster Mashup,Classified,Y,N,CT,The Operation Broken Fang Collection
+Pistols,USP-S,Neo-Noir,Covert,Y,N,CT,The Spectrum Collection
+Pistols,USP-S,Night Ops,Mil-Spec Grade,N,Y,CT,The Lake Collection
+Pistols,USP-S,Orange Anolis,Restricted,N,Y,CT,The 2021 Dust 2 Collection
+Pistols,USP-S,Orion,Classified,Y,N,CT,The Huntsman Collection
+Pistols,USP-S,Overgrowth,Restricted,Y,N,CT,The Bravo Collection
+Pistols,USP-S,Para Green,Industrial Grade,N,N,CT,The Chop Shop Collection
+Pistols,USP-S,Pathfinder,Industrial Grade,N,N,CT,The Norse Collection
+Pistols,USP-S,PC-GRN,Mil-Spec Grade,Y,N,CT,The Fever Collection
+Pistols,USP-S,Printstream,Covert,Y,N,CT,The Recoil Collection
+Pistols,USP-S,Purple DDPAT,Mil-Spec Grade,N,Y,CT,The 2021 Mirage Collection
+Pistols,USP-S,Road Rash,Restricted,N,Y,CT,The Overpass Collection
+Pistols,USP-S,Royal Blue,Industrial Grade,N,Y,CT,The Cobblestone Collection
+Pistols,USP-S,Royal Guard,Restricted,N,N,CT,The Ascent Collection
+Pistols,USP-S,Serum,Classified,Y,N,CT,The Arms Deal 2 Collection
+Pistols,USP-S,Stainless,Mil-Spec Grade,Y,N,CT,The Arms Deal 3 Collection
+Pistols,USP-S,Target Acquired,Classified,N,N,CT,The Control Collection
+Pistols,USP-S,The Traitor,Covert,Y,N,CT,The Snakebite Collection
+Pistols,USP-S,Ticket to Hell,Restricted,Y,N,CT,The Dreams & Nightmares Collection
+Pistols,USP-S,Torque,Mil-Spec Grade,Y,N,CT,The Falchion Collection
+Pistols,USP-S,Tropical Breeze,Mil-Spec Grade,N,N,CT,The Boreal Collection
+Pistols,USP-S,Whiteout,Classified,N,N,CT,The 2021 Train Collection
+Heavy,XM1014,Ancient Lore,Restricted,N,Y,Both,The Ancient Collection
+Heavy,XM1014,Banana Leaf,Industrial Grade,N,N,Both,The St. Marc Collection
+Heavy,XM1014,Black Tie,Restricted,Y,N,Both,The Chroma 3 Collection
+Heavy,XM1014,Blaze Orange,Mil-Spec Grade,N,N,Both,The Militia Collection
+Heavy,XM1014,Blue Spruce,Consumer Grade,N,Y,Both,The Lake Collection
+Heavy,XM1014,Blue Steel,Industrial Grade,N,Y,Both,The Lake Collection
+Heavy,XM1014,Blue Tire,Consumer Grade,N,Y,Both,The 2021 Vertigo Collection
+Heavy,XM1014,Bone Machine,Mil-Spec Grade,N,Y,Both,The Cache Collection
+Heavy,XM1014,CaliCamo,Industrial Grade,N,Y,Both,The Italy Collection
+Heavy,XM1014,Canvas Cloud,Consumer Grade,N,N,Both,The Radiant Collection
+Heavy,XM1014,Charter,Consumer Grade,N,N,Both,The Control Collection
+Heavy,XM1014,Copperflage,Mil-Spec Grade,N,N,Both,The Boreal Collection
+Heavy,XM1014,Elegant Vines,Restricted,N,Y,Both,The 2021 Mirage Collection
+Heavy,XM1014,Entombed,Classified,Y,N,Both,The Fracture Collection
+Heavy,XM1014,Fallout Warning,Industrial Grade,N,Y,Both,The Nuke Collection
+Heavy,XM1014,Frost Borre,Mil-Spec Grade,N,N,Both,The Norse Collection
+Heavy,XM1014,Grassland,Consumer Grade,N,N,Both,The Militia Collection
+Heavy,XM1014,Gum Wall Camo,Industrial Grade,N,N,Both,The Ascent Collection
+Heavy,XM1014,Halftone Shift,Mil-Spec Grade,N,N,Both,The Graphic Design Collection
+Heavy,XM1014,Heaven Guard,Restricted,Y,N,Both,The Huntsman Collection
+Heavy,XM1014,Hieroglyph,Consumer Grade,N,Y,Both,The Anubis Collection
+Heavy,XM1014,Incinegator,Classified,Y,N,Both,The Prisma Collection
+Heavy,XM1014,Irezumi,Mil-Spec Grade,Y,N,Both,The Kilowatt Collection
+Heavy,XM1014,Jungle,Consumer Grade,N,N,Both,The Alpha Collection
+Heavy,XM1014,Mockingbird,Mil-Spec Grade,Y,N,Both,The Fever Collection
+Heavy,XM1014,Monster Melt,Restricted,N,N,Both,The Overpass 2024 Collection
+Heavy,XM1014,Oxide Blaze,Mil-Spec Grade,Y,N,Both,The Clutch Collection
+Heavy,XM1014,Quicksilver,Mil-Spec Grade,Y,N,Both,The Chroma Collection
+Heavy,XM1014,Red Leather,Mil-Spec Grade,N,N,Both,The Baggage Collection
+Heavy,XM1014,Red Python,Mil-Spec Grade,Y,N,Both,The eSports 2014 Summer Collection
+Heavy,XM1014,Run Run Run,Mil-Spec Grade,N,N,Both,The Train 2025 Collection
+Heavy,XM1014,Scumbria,Mil-Spec Grade,Y,N,Both,The Shadow Collection
+Heavy,XM1014,Seasons,Restricted,Y,N,Both,The Spectrum Collection
+Heavy,XM1014,Slipstream,Mil-Spec Grade,Y,N,Both,The Gamma 2 Collection
+Heavy,XM1014,Solitude,Restricted,N,N,Both,Limited Edition Item
+Heavy,XM1014,Teclu Burner,Restricted,Y,N,Both,The Revolver Case Collection
+Heavy,XM1014,Tranquility,Classified,Y,N,Both,The Vanguard Collection
+Heavy,XM1014,Urban Perforated,Consumer Grade,N,Y,Both,The Vertigo Collection
+Heavy,XM1014,VariCamo Blue,Mil-Spec Grade,N,Y,Both,The Overpass Collection
+Heavy,XM1014,Watchdog,Mil-Spec Grade,Y,N,Both,The Operation Riptide Collection
+Heavy,XM1014,XOXO,Classified,Y,N,Both,The Snakebite Collection
+Heavy,XM1014,Ziggy,Restricted,Y,N,Both,The Spectrum 2 Collection
+Heavy,XM1014,Zombie Offensive,Restricted,Y,N,Both,The Dreams & Nightmares Collection
