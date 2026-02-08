@@ -3,7 +3,6 @@ import requests
 import csv
 
 URL = "https://cs2skins.gg/items"
-item_id = 0
 
 with open("pandasCSSkins/listing.csv", "w", newline = "", encoding="utf-8") as f:
     writer = csv.writer(f)
@@ -39,5 +38,4 @@ with open("pandasCSSkins/listing.csv", "w", newline = "", encoding="utf-8") as f
             except AttributeError:
                 price_tag = None
 
-            writer.writerow([item_id, name_tag])# writes to listing file
-            item_id += 1
+            writer.writerow([name_tag, price_tag])# writes to listing file
