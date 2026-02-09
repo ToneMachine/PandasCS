@@ -4,9 +4,9 @@ import csv
 
 URL = "https://cs2skins.gg/items"
 
-with open("pandasCSSkins/listing.csv", "w", newline = "", encoding="utf-8") as f:
+with open("pandasCSSkins/files/listing.csv", "w", newline = "", encoding="utf-8") as f:
     writer = csv.writer(f)
-    writer.writerow(["ID", "Name"])
+    writer.writerow(["Name", "Price"])
 
     # loops pages
     for page in range(1, 76):

@@ -1,35 +1,28 @@
+import pandas as pd
 import sqlite3
-import csv
+import os
 
-file_name = "skin_table"
+# Paths
+CSV_FILE = "pandasCSSkins/files/listing.csv"
+DB_FILE = "pandasCSSkins/db_files/listing.db"
+TABLE_NAME = "listing"
 
-# 1. Create / open the database
-conn = sqlite3.connect(f"pandasCSSkins/{file_name}.db")
-cursor = conn.cursor()
+# Check CSV exists
+if not os.path.exists(CSV_FILE):
+    raise FileNotFoundError(f"{CSV_FILE} not found")
 
-# 2. Create table (match your CSV columns)
-cursor.execute("""
-CREATE TABLE IF NOT EXISTS listings (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    name TEXT,
-    price TEXT
-)
-""")
+# Load CSV
+df = pd.read_csv(CSV_FILE)
 
-# 3. Open CSV and insert rows
-with open(f"pandasCSSkins/{file_name}.csv", newline="", encoding="utf-8") as f:
-    reader = csv.reader(f)
-    
-    next(reader)  # skip header if you have one
+# Connect to SQLite (creates DB if it doesn't exist)
+conn = sqlite3.connect(DB_FILE)
 
-    for row in reader:
-        cursor.execute(
-            "INSERT INTO listings (name, price) VALUES (?, ?)",
-            (row[0], row[1])
-        )
+# Write to database
+df.to_sql(TABLE_NAME, conn, if_exists="replace", index=False)
 
-# 4. Save and close
-conn.commit()
+# Close connection
 conn.close()
 
-print("CSV imported into skins.db")
+print("✅ CSV successfully converted to SQLite database")
+print(f"📁 Database file: {DB_FILE}")
+print(f"📊 Table name: {TABLE_NAME}")

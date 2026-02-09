@@ -56,7 +56,7 @@ def check_weapon(weapon, pattern_name, types_list):
         check_weapon(weapon, pattern_name, types_list[1:])
 
 # opens skin table csv file
-with open("pandasCSSkins/skin_table.csv", "w", newline="", encoding="utf-8") as f:
+with open("pandasCSSkins/files/skin_table.csv", "w", newline="", encoding="utf-8") as f:
     writer = csv.writer(f)
     writer.writerow([
         "category", "weapon", "pattern",
@@ -64,14 +64,14 @@ with open("pandasCSSkins/skin_table.csv", "w", newline="", encoding="utf-8") as 
     ])
 
     # read listing csv file
-    with open("pandasCSSkins/listing.csv", newline="", encoding="utf-8") as f:
+    with open("pandasCSSkins/files/listing.csv", newline="", encoding="utf-8") as f:
         reader = csv.reader(f)
         for row in reader:
             if len(row) < 2:
                 continue
 
             # creates weapon and weapon pattern name var
-            name = row[1].lower().split('|')
+            name = row[0].lower().split('|')
             weapon = name[0].rstrip().replace(" ","-")
             pattern = (
                 name[1].lstrip().replace("ö","").replace("ā","")
