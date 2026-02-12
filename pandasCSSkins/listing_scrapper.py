@@ -1,12 +1,22 @@
 from bs4 import BeautifulSoup
 import requests
 import csv
+import pandas as pd
+import sqlite3
+import os
+
+# Paths for database
+CSV_FILE = "pandasCSSkins/files/listing.csv"
+DB_FILE = "pandasCSSkins/db_files/listing.db"
+TABLE_NAME = "listing"
 
 URL = "https://cs2skins.gg/items"
+item_id = 0
 
+# creates listing.csv file to scrap info from url
 with open("pandasCSSkins/files/listing.csv", "w", newline = "", encoding="utf-8") as f:
     writer = csv.writer(f)
-    writer.writerow(["Name", "Price"])
+    writer.writerow(["ID", "Name"])
 
     # loops pages
     for page in range(1, 76):
@@ -34,8 +44,29 @@ with open("pandasCSSkins/files/listing.csv", "w", newline = "", encoding="utf-8"
                 name_tag = None
 
             try:
-                price_tag = item.find("span", class_="skin-price").text
+                price_tag = item.find("span", class_="skin-price").text.lstrip("$")
             except AttributeError:
                 price_tag = None
 
-            writer.writerow([name_tag, price_tag])# writes to listing file
+            writer.writerow([item_id, name_tag])# writes to listing file
+            item_id += 1
+
+# Check CSV exists
+if not os.path.exists(CSV_FILE):
+    raise FileNotFoundError(f"{CSV_FILE} not found")
+
+# Load CSV
+df = pd.read_csv(CSV_FILE)
+
+# Connect to SQLite (creates DB if it doesn't exist)
+conn = sqlite3.connect(DB_FILE)
+
+# Write to database
+df.to_sql(TABLE_NAME, conn, if_exists="replace", index=False)
+
+# Close connection
+conn.close()
+
+print("✅ CSV successfully converted to SQLite database")
+print(f"📁 Database file: {DB_FILE}")
+print(f"📊 Table name: {TABLE_NAME}")

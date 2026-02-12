@@ -1,9 +1,16 @@
 from bs4 import BeautifulSoup
 import requests
 import csv
+import pandas as pd
+import sqlite3
+import os
+
+# Paths
+CSV_FILE = "pandasCSSkins/files/skin_table.csv"
+DB_FILE = "pandasCSSkins/db_files/skin.db"
+TABLE_NAME = "skin"
 
 item_type = 'skin'
-
 weapon_types = {
     'pistols': ['cz75-auto', 'desert-eagle', 'dual-berettas', 'five-seven', 'glock-18', 'p2000', 'p250', 'r8-revolver', 'tec-9', 'usp-s'],
     'smgs': ['mac-10', 'mp5-sd', 'mp7', 'mp9', 'p90', 'pp-bizon', 'ump-45'],
@@ -71,7 +78,7 @@ with open("pandasCSSkins/files/skin_table.csv", "w", newline="", encoding="utf-8
                 continue
 
             # creates weapon and weapon pattern name var
-            name = row[0].lower().split('|')
+            name = row[1].lower().split('|')
             weapon = name[0].rstrip().replace(" ","-")
             pattern = (
                 name[1].lstrip().replace("ö","").replace("ā","")
@@ -83,3 +90,24 @@ with open("pandasCSSkins/files/skin_table.csv", "w", newline="", encoding="utf-8
 
             # calls check weapon func
             check_weapon(weapon, pattern, list(weapon_types.items()))
+
+# creates database
+# Check CSV exists
+if not os.path.exists(CSV_FILE):
+    raise FileNotFoundError(f"{CSV_FILE} not found")
+
+# Load CSV
+df = pd.read_csv(CSV_FILE)
+
+# Connect to SQLite (creates DB if it doesn't exist)
+conn = sqlite3.connect(DB_FILE)
+
+# Write to database
+df.to_sql(TABLE_NAME, conn, if_exists="replace", index=False)
+
+# Close connection
+conn.close()
+
+print("✅ CSV successfully converted to SQLite database")
+print(f"📁 Database file: {DB_FILE}")
+print(f"📊 Table name: {TABLE_NAME}")
